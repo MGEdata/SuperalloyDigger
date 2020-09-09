@@ -16,7 +16,7 @@ This package is released under MIT License, please see the LICENSE file for deta
 **Elsevier articles archive**
 
 Automatically archive relevant articles from Elsevier journal
-Combined with the CrossRef search Application Programming Interface (API),  Elsevier’s Scopus and Science Direct application programming interfaces (APIs) (https://dev.elsevier.com/), full text or abstract of corresponding field can be easily obtained. The premise is you have already got the copyright of the Elsevier database and applied for the APIkey of Elsevier. Users can find our source code at GitHub (https://github.com/Weiren1996/SuperalloyDigger) to use this function locally. 
+Combined with the CrossRef search Application Programming Interface (API),  Elsevier’s Scopus and Science Direct application programming interfaces (APIs) (https://dev.elsevier.com/), full text or abstract of corresponding field can be easily obtained. The premise is you have already got the copyright of the Elsevier database and applied for the APIkey of Elsevier. Users can find our source code at GitHub to use this function locally. 
 
 **Superalloy word embedding**
 
