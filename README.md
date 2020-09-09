@@ -33,7 +33,7 @@ This code extracts data of property from TXT files. These TXT files need to be s
 
   1. Fork this repository
   2. Download the word embeddings model and configuration file
-    - Available here: http://114.116.222.153:11000/#/home
+    - Available here: http://superalloydigger.mgedata.cn/#/home
   3. Download all files and place in the tableextractor/bin folder
   4. Place all files in superalloydigger/data
 
