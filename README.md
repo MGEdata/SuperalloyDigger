@@ -1,22 +1,23 @@
 
 **SuperalloyDigger**
 ----------------------
-The functions of superalloyDigger toolkit include batch downloading documents in XML and TXT format from the Elsevier database, locating target sentences from the full text and automatically extracting triple information in the form of <material name, property specifier, value>.
+Automatic extraction of chemical compositions and properties from the scientific literature of superalloy, covering specific chemical composition, density, γ' solvus temperature, solidus temperature, and liquidus temperature. Starting with a corpus of scientific articles scraped in XML, HTML or plain text format, NLP techniques are used to preprocess the raw archived corpus, followed by text classifier and table parser, named entity recognition, relation extraction of text and table, and dependency parser automatically. Finally, the extracted tuple entities containing article doi, alloy named entity, property specifier, property value, element and fraction, are compiled into a highly structured format for materials database.
 
 This package is released under MIT License, please see the LICENSE file for details.
 
 **Features**
 ----------------------
+- An automated chemical composition and property data extraction pipeline for superalloy.
 - Rule-based named entity recognition for superalloy.
-- An automated data extraction pipeline for superalloy.
-- Algorithm based on distance and number of entities, processing multiple relationship extraction without labeling samples.
+- Algorithm based on distance and number of entities, processing multiple relationship extraction for text without labeling samples.
+- Table parser and table relation extraction algorithms to mine data from tables in documents
+- An interdependency parser to extract the information contain composition and property data simultaneous.
 
 **Function**
 ----------------------
 **Elsevier articles archive**
 
-Automatically archive relevant articles from Elsevier journal
-Combined with the CrossRef search Application Programming Interface (API),  Elsevier’s Scopus and Science Direct application programming interfaces (APIs) (https://dev.elsevier.com/), full text or abstract of corresponding field can be easily obtained. The premise is you have already got the copyright of the Elsevier database and applied for the APIkey of Elsevier. Users can find our source code at GitHub to use this function locally. 
+Automatically archive relevant articles from Elsevier, Springer, Taylor & Francis Online, Wiley Blackwell, MDPI, ASME International, Nature Publishing Group Journals Combined with the CrossRef search Application Programming Interface (API), Elsevier’s Scopus and Science Direct application programming interfaces (APIs), full text or abstract of corresponding field can be easily obtained. The premise is you have already got the copyright of the Elsevier database and applied for the APIkey of Elsevier. Users can find our source code at GitHub to use this function locally.
 
 **Superalloy word embedding**
 
