@@ -1024,7 +1024,7 @@ class TableExtractorModified(object):
 
 
 def get_extraction_outcome(xml_path,save_path,config_path):
-    TableExtractor_m = TableExtractor_modifiedtoalloy(xml_path,save_path,config_path)
+    TableExtractor_m = TableExtractor_Modified(xml_path,save_path,config_path)
     all_error_file = []
     xml_name = os.listdir(xml_path)
     log_wp = Log_wp()
