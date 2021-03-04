@@ -367,10 +367,10 @@ class Get_tinfo_from_html():
 
 if __name__ == '__main__':
     # the path of excel file contains Dois information
-    doi_path = r"C:\Users\win\Desktop\springer_download.xlsx"
+    doi_path = r"...\doi_list.xlsx"
 
     # the path of folder to store the output excel files
-    output_path = r"C:\Users\win\Desktop\springer_out_test"
+    output_path = r"...\output_folder"
 
     G_t = Get_tinfo_from_html(doi_path, output_path)
     G_t.run()
