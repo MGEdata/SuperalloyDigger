@@ -13,7 +13,7 @@ if __name__ == '__main__':
     doi = "10.1115-1.2836743"
 
     # the path of folder to store the output excel files
-    output_path = r"C:\Users\win\Desktop\springer_out_test"
+    output_path = r"...\output_folder"
 
     G_t = Get_tinfo_from_html(doi_path, output_path)
     G_t.run()
