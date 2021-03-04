@@ -8,9 +8,9 @@ from table_info_get import Get_tinfo_from_html
 
 if __name__ == '__main__':
 
-    html_path = r'E:\文本挖掘\工作二-工艺参数\合金领域所有语料汇总\superalloy_html_parse\原html文件\ASME_download'
+    html_path = r'...\html_folder'
 
-    output_path = r'C:\Users\win\Desktop\springer_out_test'
+    output_path = r'...\output_folder'
 
     get_table = Get_tinfo_from_html(html_path, output_path)
     get_table.run()
