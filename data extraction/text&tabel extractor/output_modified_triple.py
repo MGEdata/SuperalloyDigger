@@ -712,18 +712,3 @@ def transform_comp_outcome(all_composition,ele_list):
         gather_outcome.append(sole_info)
         
     return gather_outcome
-
-
-# if __name__ == '__main__':
-#     excels_path = r'C:\Users\win\Desktop\out_table_2'
-#     C_path = r'dictionary.ini'
-#     te = Table_extraction(excels_path, C_path, prop_name=target_property)
-#     # all_composition = te.composition_triple_extraction()
-#     info_all = te.property_info_extraction()
-#     Get_tar = Get_targetinfo(info_all,r'C:\Users\win\Desktop\train.xlsx')
-#     # Get_tar.structure_prop(prop_pattern,target_property)
-# #    Get_tar = Get_targetinfo(info_all,r'C:\Users\win\Desktop\prop_allcomposition.xlsx')
-#     Get_tar.structure_prop(prop_pattern,target_property)
-# #     Get_tar.structure_ele()
-
-
