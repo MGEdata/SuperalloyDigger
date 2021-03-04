@@ -14,9 +14,9 @@ if __name__ == '__main__':
     config_path = "dictionary.ini"
 
     # the path of document contains xml files
-    xml_path = r'C:\Users\win\Desktop\xml_get\superalloy_xml\xml-5979'
+    xml_path = r'...\all_xml_folder'
 
     # the path of folder include excels that have been output
-    save_path = r'E:\文本挖掘\工作二-工艺参数\表格解析\self_try\table_outcome_extraction_5979_2'
+    save_path = r'...\table_extraction_outcome'
 
     all_error_file, length = get_extraction_outcome(xml_path, save_path, config_path)
