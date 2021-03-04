@@ -4,7 +4,7 @@ Created on Mon May 18 09:13:02 2020
 
 @author: 35732
 """
-from class_modified import TableExtractor_modifiedtoalloy,get_extraction_outcome
+from class_modified import TableExtractor_Modified,get_extraction_outcome
 from dictionary import Dictionary
 
 if __name__ == '__main__':
