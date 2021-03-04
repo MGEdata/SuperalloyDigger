@@ -24,7 +24,7 @@ import os
 from dictionary import Dictionary
 from log_wp import Log_wp
 
-class TableExtractor_modifiedtoalloy(object):
+class TableExtractorModified(object):
     def __init__(self,xml_path,save_path,config_path):
         self.xml_path = xml_path
         self.save_path = save_path
