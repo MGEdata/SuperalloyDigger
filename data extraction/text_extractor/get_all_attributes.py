@@ -11,13 +11,13 @@ from pre_processor import Pre_processor
 from log_wp import Log_wp
 
 class All_attributes:
-    def __init__(self,prop_name,txt_name,text_path,triple_path,out_path,C_path):
+    def __init__(self,prop_name,txt_name,text_path,triple_path,out_path,c_path):
         self.txt_name = txt_name
         self.text_path = text_path
         self.triple_path = triple_path
         self.prop_name = prop_name
         self.out_path = out_path
-        self.C_path = C_path
+        self.c_path = c_path
         self.log_wp = Log_wp()
 
     def get_toexcel(self):
@@ -50,7 +50,7 @@ class All_attributes:
         for i in range(0,len(txt_name)):
             file = open(self.text_path + '/'+str(txt_name[i]) ,'r',encoding='utf-8')
             sole_text = file.read()
-            pre_processor = Pre_processor(sole_text,self.C_path)
+            pre_processor = Pre_processor(sole_text,self.c_path)
             filter_txt = pre_processor.pre_processor()
             path_2 = self.text_path + '/proprecess'
             isExists = os.path.exists(path_2)
