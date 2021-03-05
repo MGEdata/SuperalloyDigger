@@ -23,12 +23,12 @@ import nltk
 property_list = ['solvus','density','liquidus','solidus']
 
 class Acquire_all_target_info():
-    def __init__(self, C_path, origin_text_path, prop_list, excels_path, out_path):
-        self.C_path = C_path
+    def __init__(self, c_path, origin_text_path, prop_list, excels_path, out_path):
+        self.c_path = c_path
         self.prop_list = prop_list
         self.origin_text_path = origin_text_path
         self.excels_path = excels_path
-        self.dict_info = Dictionary(self.C_path)
+        self.dict_info = Dictionary(self.c_path)
         self.out_path = out_path
         self.log_wp = Log_wp()
 
@@ -49,7 +49,7 @@ class Acquire_all_target_info():
         return doi
 
     def get_abrre(self,text,prop_name):
-        processor = T_pre_processor(text, prop_name, self.C_path)
+        processor = T_pre_processor(text, prop_name, self.c_path)
         text = processor.processor()
         sentences = nltk.sent_tokenize(text)
         sentences_split = text.split(" ")
@@ -57,7 +57,7 @@ class Acquire_all_target_info():
         len_type = len(alloy_write_type)
         abbre_to_alloy = {}
         for sent in sentences:
-            processor = T_pre_processor(sent, prop_name, self.C_path)
+            processor = T_pre_processor(sent, prop_name, self.c_path)
             filter_data = processor.processor()
             words =  nltk.word_tokenize(filter_data)
             for word in words:
@@ -93,19 +93,19 @@ class Acquire_all_target_info():
             doi = self.get_doi_fromtxt(n_path)
             file = open(text_path + '/' + n_path,'r',encoding='utf-8')
             data = file.read()
-            pre_processor = Pre_processor(data,self.C_path)
+            pre_processor = Pre_processor(data,self.c_path)
             filter_txt = pre_processor.pre_processor()
             file_origin = open(self.origin_text_path + '/' + n_path,'r',encoding='utf-8')
             data_origin = file_origin.read()
             abbre_pairs = self.get_abrre(data_origin,prop_name)
-            positioner = Sentence_Positioner(filter_txt,prop_name,self.C_path)
+            positioner = Sentence_Positioner(filter_txt,prop_name,self.c_path)
             target_sents = positioner.target_sent()
             for index,sent in target_sents.items():
-                processor = T_pre_processor(sent,prop_name,self.C_path)
+                processor = T_pre_processor(sent,prop_name,self.c_path)
                 filter_data = processor.processor()
-                parse = Phrase_parse(filter_data,prop_name,self.C_path)
+                parse = Phrase_parse(filter_data,prop_name,self.c_path)
                 sub_order,sub_id,object_list = parse.alloy_sub_search()
-                RE = Relation_extraciton(prop_name,filter_data,sub_order,sub_id,object_list,self.C_path,abbre_pairs)
+                RE = Relation_extraciton(prop_name,filter_data,sub_order,sub_id,object_list,self.c_path,abbre_pairs)
                 all_outcome = RE.triple_extraction()
                 if all_outcome:
                     for id_m,info in all_outcome.items():
@@ -431,7 +431,7 @@ class Acquire_all_target_info():
             self.mkdir(text_path)
             all_txt_info = self.get_text_triple( prop_name)
             target_property = prop_name  # 'density' 'liquidus'  'solidus'  'solvus'
-            te = Table_extraction(self.excels_path, self.C_path, prop_name=target_property)
+            te = Table_extraction(self.excels_path, self.c_path, prop_name=target_property)
             info_all = te.property_info_extraction()
             i_l = 0
             for k, v in info_all.items():
