@@ -9,14 +9,14 @@ import re
 import copy
 from dictionary import Dictionary
 class Relation_extraciton:
-    def __init__(self, prop_name, data, sub_order, sub_id, object_list, C_path):
-        self.C_path = C_path
+    def __init__(self, prop_name, data, sub_order, sub_id, object_list, c_path):
+        self.c_path = c_path
         self.prop_name = prop_name
         self.data = data
         self.sub_order = sub_order
         self.sub_id = sub_id
         self.object_list = object_list
-        self.dictionary = Dictionary(self.C_path)
+        self.dictionary = Dictionary(self.c_path)
 
     def triple_extraction(self):
         object_list = self.object_list
