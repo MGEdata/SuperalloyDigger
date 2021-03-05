@@ -8,9 +8,9 @@ import nltk
 import re
 from dictionary import Dictionary
 class Phrase_parse:
-    def __init__(self,txt,prop_name,C_path):
-        self.C_path = C_path
-        self.dict_info = Dictionary(self.C_path)
+    def __init__(self,txt,prop_name,c_path):
+        self.c_path = c_path
+        self.dict_info = Dictionary(self.c_path)
         self.txt = txt
         self.prop_name = prop_name
 
