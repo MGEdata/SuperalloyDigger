@@ -11,7 +11,7 @@ if __name__ == '__main__':
     # get table content and full text, and dependency parsing
 
     # the path of configuration file
-    C_path = r'dictionary.ini'
+    c_path = r'dictionary.ini'
 
     # the path of folder contains txt files
     origin_text_path = r'...\all_txt_folder'
@@ -25,5 +25,5 @@ if __name__ == '__main__':
     # the path of folder to store excels files that have been output
     out_path = r'...\output_folder'
 
-    Acquire_all_target_info = Acquire_all_target_info(C_path, origin_text_path, prop_list, excels_path, out_path)
-    Acquire_all_target_info.run()
+    acquire_all_target_info = Acquire_all_target_info(c_path, origin_text_path, prop_list, excels_path, out_path)
+    acquire_all_target_info.run()
