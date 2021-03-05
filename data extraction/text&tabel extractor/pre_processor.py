@@ -8,10 +8,10 @@ Created on Mon Apr 27 23:15:37 2020
 import re
 from dictionary import Dictionary
 class Pre_processor:
-    def __init__(self,all_text,C_path):
-        self.C_path = C_path
+    def __init__(self,all_text,c_path):
+        self.c_path = c_path
         self.all_text = all_text
-        self.dict_info = Dictionary(self.C_path)
+        self.dict_info = Dictionary(self.c_path)
         
     def pre_processor(self):
         all_txt = self.all_text
