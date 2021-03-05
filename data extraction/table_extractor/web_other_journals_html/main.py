@@ -15,5 +15,5 @@ if __name__ == '__main__':
     # the path of folder to store the output excel files
     output_path = r"...\output_folder"
 
-    G_t = Get_tinfo_from_html(doi_path, output_path)
-    G_t.run()
+    g_t = Get_tinfo_from_html(doi_path, output_path)
+    g_t.run()
