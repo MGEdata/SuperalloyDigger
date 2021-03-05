@@ -9,9 +9,9 @@ import re
 import nltk
 from dictionary import Dictionary
 class Sentence_Positioner:
-    def __init__(self,filter_txt,prop_name,C_path):
-        self.C_path = C_path
-        self.dict_info = Dictionary(C_path)
+    def __init__(self,filter_txt,prop_name,c_path):
+        self.c_path = c_path
+        self.dict_info = Dictionary(c_path)
         self.prop_name = prop_name
         self.filter_txt = filter_txt
 
