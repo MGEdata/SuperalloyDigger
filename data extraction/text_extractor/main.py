@@ -31,7 +31,7 @@ def mkdir(file_name):
 if __name__ == '__main__':
     log_wp = Log_wp()
     #配置文件的路径
-    C_path = r'dictionary.ini'
+    c_path = r'dictionary.ini'
     #下载得到文本的储存文件夹路径
     origin_text_path = r'...\all_txt_folder'
     #提取的目标性能名称
@@ -58,9 +58,9 @@ if __name__ == '__main__':
         n_path = text_path + '/' + str(os.listdir(text_path)[i])
         file = open(n_path ,'r',encoding='utf-8')
         data = file.read()
-        pre_processor = Pre_processor(data,C_path)
+        pre_processor = Pre_processor(data,c_path)
         filter_txt = pre_processor.pre_processor()
-        positioner = Sentence_Positioner(filter_txt,prop_name,C_path)
+        positioner = Sentence_Positioner(filter_txt,prop_name,c_path)
         target_sents = positioner.target_sent()
         all_x.append(str(target_sents))
         txt_name2.append(n_path)
@@ -81,11 +81,11 @@ if __name__ == '__main__':
             sent_out = {}
             l_sent = []
             for sent in item:
-                processor = T_pre_processor(sent, prop_name, C_path)
+                processor = T_pre_processor(sent, prop_name, c_path)
                 filter_data = processor.processor()
-                parse = Phrase_parse(filter_data, prop_name, C_path)
+                parse = Phrase_parse(filter_data, prop_name, c_path)
                 sub_order, sub_id, object_list = parse.alloy_sub_search()
-                RE = Relation_extraciton(prop_name, filter_data, sub_order, sub_id, object_list, C_path)
+                RE = Relation_extraciton(prop_name, filter_data, sub_order, sub_id, object_list, c_path)
                 all_outcome = RE.triple_extraction()
                 if not all_outcome:
                     out = 'no target triples'
@@ -122,5 +122,5 @@ if __name__ == '__main__':
             triple_lines += 1
             file_index += 1
     log_wp.excel_save(xls, triple_path)
-    attributes = All_attributes(prop_name,txt_name,text_path,triple_path,out_path,C_path)
+    attributes = All_attributes(prop_name,txt_name,text_path,triple_path,out_path,c_path)
     attributes.get_toexcel()
