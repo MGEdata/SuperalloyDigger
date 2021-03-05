@@ -9,10 +9,10 @@ import re
 import nltk
 from dictionary import Dictionary
 class T_pre_processor:
-    def __init__(self,all_text,prop_name,C_path):
-        self.C_path = C_path
+    def __init__(self,all_text,prop_name,c_path):
+        self.c_path = c_path
         self.all_text = all_text
-        self.dict_info = Dictionary(self.C_path)
+        self.dict_info = Dictionary(self.c_path)
         self.prop_name = prop_name
         
     def processor(self):
