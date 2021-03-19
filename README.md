@@ -44,16 +44,12 @@ Clone this github repository and run
 ```
 python3 setup.py install
 ```
-
 Or simply use the code in your own project.
+Note:The xlrd library version needs to be 1.2.0, run
+```
+pip install xlrd==1.2.0
+```
 
 **License**
 ----------------------
 All source code is licensed under the MIT license.
-
-**Install**
-----------------------
-```
-pip install superalloydigger
-```
-If you don't have pip installed, you could also download the ZIP containing all the files in this repo and manually import the SuperalloyDigger class into your own Python code.
