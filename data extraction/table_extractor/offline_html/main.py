@@ -4,7 +4,7 @@ Created on Wed Jan 20 14:49:42 2021
 
 @author: win
 """
-from table_info_get import Get_tinfo_from_html
+from table_info_get import GetTableInfoFromHtml
 
 if __name__ == '__main__':
 
@@ -12,5 +12,5 @@ if __name__ == '__main__':
 
     output_path = r'...\output_folder'
 
-    get_table = Get_tinfo_from_html(html_path, output_path)
+    get_table = GetTableInfoFromHtml(html_path, output_path)
     get_table.run()
