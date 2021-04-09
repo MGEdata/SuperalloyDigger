@@ -7,7 +7,7 @@ Created on Wed Jun 10 15:06:30 2020
 import xlrd
 import xlwt
 import os
-from pre_processor import Pre_processor
+from pre_processor import PreProcessor
 from log_wp import LogWp
 
 
