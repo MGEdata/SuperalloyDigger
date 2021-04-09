@@ -5,7 +5,7 @@ Created on Mon May 18 09:13:02 2020
 @author: 35732
 """
 
-from get_tifo_from_html import Get_tinfo_from_html
+from get_tifo_from_html import GetTableHtml
 
 
 if __name__ == '__main__':
@@ -15,5 +15,5 @@ if __name__ == '__main__':
     # the path of folder to store the output excel files
     output_path = r"...\output_folder"
 
-    g_t = Get_tinfo_from_html(doi_path, output_path)
+    g_t = GetTableHtml(doi_path, output_path)
     g_t.run()
