@@ -54,7 +54,7 @@ class AllAttributes:
         for i in range(0, len(txt_name)):
             file = open(self.text_path + '/' + str(i) + '.txt', 'r', encoding='utf-8')
             sole_text = file.read()
-            pre_processor = Pre_processor(sole_text, self.c_path)
+            pre_processor = PreProcessor(sole_text, self.c_path)
             filter_txt = pre_processor.pre_processor()
             path_2 = self.text_path + '/proprecess'
             is_exists = os.path.exists(path_2)
