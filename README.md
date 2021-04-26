@@ -15,9 +15,9 @@ This package is released under MIT License, please see the LICENSE file for deta
 
 **Function**
 ----------------------
-**Elsevier articles archive**
+**Articles archive**
 
-Automatically archive relevant articles from Elsevier, Springer, Taylor & Francis Online, Wiley Blackwell, MDPI, ASME International, Nature Publishing Group Journals Combined with the CrossRef search Application Programming Interface (API), Elsevier’s Scopus and Science Direct application programming interfaces (APIs), full text or abstract of corresponding field can be easily obtained. The premise is you have already got the copyright of the Elsevier database and applied for the APIkey of Elsevier. Users can find our source code at GitHub to use this function locally.
+Automatically archive relevant articles mainly from Elsevier and some other publishers.  Combined with the CrossRef search Application Programming Interface (APIs) and Elsevier’s Scopus and Science Direct application programming interfaces (APIs), full text or abstract of corresponding field can be easily obtained. The premise is you have already got the copyright of the Elsevier database and applied for the APIkey of Elsevier. Users can find our source code at GitHub to use this function locally.
 
 **Superalloy word embedding**
 
