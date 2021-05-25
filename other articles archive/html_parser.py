@@ -35,7 +35,7 @@ class Html_parser():
                 for parag in paragraphs:
                     if "Abs" in str(parag.id):
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
@@ -47,7 +47,7 @@ class Html_parser():
                     re_d = re.findall(content_label, str(parag.id))
                     if re_d:
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
@@ -64,7 +64,7 @@ class Html_parser():
                     no_pargas.append(sole_file)
                     for parag in paragraphs:
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
@@ -101,7 +101,7 @@ class Html_parser():
                         abs_search = 1
                     if abs_search == 1:
                         abstract = ele.text
-                        if abstract[0].isupper() and len(abstract) > 100:
+                        if abstract[0].isupper() and len(abstract) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", abstract)
                         for ref in refs:
@@ -114,7 +114,7 @@ class Html_parser():
                     re_d = re.findall(content_label, str(parag.id))
                     if re_d:
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
@@ -132,7 +132,7 @@ class Html_parser():
                     no_pargas.append(sole_file)
                     for parag in parags:
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         text = text.replace("\n", '')
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
@@ -165,7 +165,7 @@ class Html_parser():
                 for parag in parags:
                     if content_label in str(parag.id) and "reference" not in str(parag.id):  # 避免参考文件信息加入到结果中
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
@@ -183,7 +183,7 @@ class Html_parser():
                     no_pargas.append(sole_file)
                     for parag in parags:
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         text = text.replace("\n", '')
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
@@ -219,7 +219,7 @@ class Html_parser():
                         text = parag.text
                         if text == "References":
                             break
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
@@ -237,7 +237,7 @@ class Html_parser():
                     no_pargas.append(sole_file)
                     for parag in parags:
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         text = text.replace("\n", '')
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
@@ -270,7 +270,7 @@ class Html_parser():
                 for parag in paragraphs:
                     if "Abs" in str(parag.id) or "abs" in str(parag.id):
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
@@ -283,7 +283,7 @@ class Html_parser():
                     re_d_2 = re.findall(content_label_2, str(parag.id))
                     if re_d or re_d_2:
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
@@ -300,7 +300,7 @@ class Html_parser():
                     no_pargas.append(sole_file)
                     for parag in paragraphs:
                         text = parag.text
-                        if text[0].isupper() and len(text) > 100:
+                        if text[0].isupper() and len(text) > 300:
                             all_parag += '\n'
                         refs = re.findall(r"\[\d+[^\[]*\]", text)
                         for ref in refs:
