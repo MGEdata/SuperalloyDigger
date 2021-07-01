@@ -52,8 +52,9 @@ class TPreProcessor:
                 if word not in outcome:
                     for pattern in para:
                         number = re.findall(pattern, word)
-                        if unit_replace[self.prop_name][0] in sent and number:
-                            all_txt = all_txt.replace(word, word + unit_replace[self.prop_name][0])
-                        if unit_replace[self.prop_name][0] not in sent and number:
-                            all_txt = all_txt.replace(word, word + unit_replace[self.prop_name][-1])
+                        if unit_replace[self.prop_name][0]：
+                            if unit_replace[self.prop_name][0] in sent and number:
+                                all_txt = all_txt.replace(word, word + unit_replace[self.prop_name][0])
+                            if unit_replace[self.prop_name][0] not in sent and number:
+                                all_txt = all_txt.replace(word, word + unit_replace[self.prop_name][-1])
         return all_txt
