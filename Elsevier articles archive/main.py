@@ -32,6 +32,6 @@ if __name__ == '__main__':
               'CR-TDM-Rate-Limit-Reset': '1378072800'}
     url_publisher = "https://api.elsevier.com/content/article/doi/"  # 如果获取全文的话，将abstract替换成article
     APIKey = "APIKey=***********************"   # developer Elsevier 申请的
-    arformat = "text/plain"   # text/xml,text/plain
+    arformat = "text/plain"   # XML:text/xml;TXT:text/plain
     Article_archive_doi = ArticleArchiveDoi(header, filename, url_publisher, APIKey, arformat, path_txt, file_excel)
     Article_archive_doi.httprequest()
