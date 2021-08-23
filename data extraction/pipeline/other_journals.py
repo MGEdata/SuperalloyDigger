@@ -84,6 +84,7 @@ class OtherJ:
                         sht2.write(triple_lines, 4, 'None')
                         sht2.write(num_of_lines, 1, 'no target sentence')
                         num_of_lines += 1
+                        triple_lines += 1
                     n_triple = 0
                     for index, v in all_outcome.items():
                         out_unit.append(v)
