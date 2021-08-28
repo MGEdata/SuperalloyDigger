@@ -1,6 +1,9 @@
 [![Website](https://raw.githubusercontent.com/MGEdata/SuperalloyDigger/master/pic_folder/b96627c3f326953fce3452fd175f718.png)](http:superalloydigger.mgedata.cn)
 
+[![SuperalloyDigger.org](https://shields.mitmproxy.org/badge/https%3A%2F%2F-superalloydigger.mgedata.cn-green)](http:superalloydigger.mgedata.cn)
+
 [![Website](https://badge.fury.io/py/SuperalloyDigger.svg)](https://pypi.org/project/SuperalloyDigger)
+[![Supported Python versions](https://shields.mitmproxy.org/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)](https://pypi.org/project/SuperalloyDigger)
 ----------------------
 Automatic extraction of chemical compositions and properties from the scientific literature of superalloy, covering specific chemical composition, density, γ' solvus temperature, solidus temperature, and liquidus temperature. Starting with a corpus of scientific articles scraped in XML, HTML or plain text format, NLP techniques are used to preprocess the raw archived corpus, followed by text classifier and table parser, named entity recognition, relation extraction of text and table, and dependency parser automatically. Finally, the extracted tuple entities containing article doi, alloy named entity, property specifier, property value, element and fraction, are compiled into a highly structured format for materials database.
 
