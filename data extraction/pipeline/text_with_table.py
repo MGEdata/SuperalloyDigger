@@ -22,6 +22,15 @@ from sentence_positioner import SentencePositioner
 
 property_list = ['solvus', 'density', 'liquidus', 'solidus']
 
+def mkdir(pathd):
+    if os.path.exists(pathd):
+        for root, dirs, files in os.walk(pathd, topdown=False):
+            for name in files:
+                os.remove(os.path.join(root, name))
+            for name in dirs:
+                os.rmdir(os.path.join(root, name))
+        os.rmdir(pathd)
+    os.mkdir(pathd)
 
 class AcquireAllTargetInfo:
     def __init__(self, c_path, origin_text_path, prop_list, excels_path, out_path, m_path):
@@ -33,17 +42,6 @@ class AcquireAllTargetInfo:
         self.out_path = out_path
         self.log_wp = LogWp()
         self.m_path = m_path
-
-    def mkdir(self, file_name):
-        pathd = os.getcwd() + '\\' + file_name
-        if os.path.exists(pathd):
-            for root, dirs, files in os.walk(pathd, topdown=False):
-                for name in files:
-                    os.remove(os.path.join(root, name))
-                for name in dirs:
-                    os.rmdir(os.path.join(root, name))
-            os.rmdir(pathd)
-        os.mkdir(pathd)
 
     def get_doi_fromtxt(self, txt_path):
         text_name = txt_path.replace(".txt", "")
@@ -82,6 +80,7 @@ class AcquireAllTargetInfo:
 
     def get_text_triple(self, prop_name):
         text_path = os.path.join(self.m_path, "full_text")
+        mkdir(text_path)
         FT = FilterText(self.origin_text_path, text_path)
         txt_name = FT.process()
         length = len(os.listdir(self.origin_text_path))
