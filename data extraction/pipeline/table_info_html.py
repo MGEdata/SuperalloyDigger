@@ -460,6 +460,7 @@ class GetTInfoFromHtml:
             for page1 in page.find_all('caption'):
                 name = page1.text
                 name = name.replace('\n', '')  # 清除title中的冗余字段
+                name = name.replace('%','%%')
                 table_name.append(name)
             self.log_wp.print_log(str(table_name))
             if len(table_name) != 0:
