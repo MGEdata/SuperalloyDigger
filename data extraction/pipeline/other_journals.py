@@ -2,12 +2,10 @@
 """
 Created on Mon May 18 09:13:02 2020
 
-@author: 35732
+@author: Weiren
 """
 import os
-
 import xlwt
-
 from Phrase_parse import PhraseParse
 from Relation_extraciton_orig import RelationExtraciton
 from T_pre_processor import TPreProcessor
@@ -36,14 +34,14 @@ class OtherJ():
 
     def relation_extraction(self, C_path, origin_text_path, prop_name, triple_path, out_path, m_path):
         log_wp = LogWp()
-        # 经过全文定位之后的文本的储存文件夹路径
+        # The path to the folder where the full-text text is stored
         text_path = os.path.join(m_path, "full_text")
-        # 定位得到的目标语料
+        # Locate the obtained target corpus
         TS_path = os.path.join(m_path, "sent.xls")
-        # 筛选获取全文内容
+        # Filter to get the full text
         FT = FilterText(origin_text_path, text_path)
         txt_name,dois = FT.process()
-        # 获取目标语料
+        # Get the target corpus
         all_x = []
         txt_name2 = []
         length = len(os.listdir(text_path))
@@ -53,12 +51,6 @@ class OtherJ():
                 data = file.read()
             pre_processor = PreProcessor(data, C_path)
             filter_data = pre_processor.pre_processor()
-
-            # pre_processor = PreProcessor(data, C_path)
-            # filter_txt = pre_processor.pre_processor()
-            # positioner = SentencePositioner(filter_txt, prop_name, C_path)
-            # target_sents = positioner.target_sent()
-
             processor = TPreProcessor(filter_data, prop_name, C_path)
             filter_data = processor.processor()
             positioner = SentencePositioner(filter_data, prop_name, C_path)
@@ -70,14 +62,13 @@ class OtherJ():
         FI_out = FI(all_x, TS_path, txt_name2)
         FI_out.out_to_excel()
 
-        # 进行三元组的抽取
+        # Extraction of triples
         data = FI_out.data_from_excel()
-        # print(data)
         xls = xlwt.Workbook()
         sht2 = xls.add_sheet("triple_extracion")
-        triple_lines = 0  # 代表triple的行数
-        file_index = 0  # 代表文件索引
-        num_of_lines = 0  # 代表句子的行数g
+        triple_lines = 0  # the number of "triple"
+        file_index = 0  # document indexing
+        num_of_lines = 0  # the number of sentences
         for item in data:
             doi = dois[file_index].replace("doi:","")
             sht2.write(triple_lines, 0, doi)
@@ -86,13 +77,10 @@ class OtherJ():
                 sent_out = {}
                 l_sent = []
                 for sent in item:
-                    # print(sent)
                     processor = TPreProcessor(sent, prop_name, C_path)
                     filter_data = processor.processor()
-                    # print(filter_data)
                     parse = PhraseParse(filter_data, prop_name, C_path)
                     sub_order, sub_id, object_list = parse.alloy_sub_search()
-                    # print(sub_order, sub_id, object_list)
                     RE = RelationExtraciton(prop_name, filter_data, sub_order, sub_id, object_list, C_path)
                     all_outcome = RE.triple_extraction()
                     if not all_outcome:
@@ -103,16 +91,13 @@ class OtherJ():
                         sht2.write(num_of_lines, 1, 'no target sentence')
                         num_of_lines += 1
                         triple_lines += 1
-
                     n_triple = 0
                     for index, v in all_outcome.items():
                         out_unit.append(v)
                         n_triple += 1
-                    #                sent_out[sent] = out_unit
                     for n in range(0, n_triple):
                         sht2.write(num_of_lines + n, 1, sent)
                     num_of_lines = num_of_lines + n_triple
-
                 for s in range(0, len(out_unit)):
                     sht2.write(triple_lines + s, 2, out_unit[s][0])
                     sht2.write(triple_lines + s, 3, out_unit[s][1])
