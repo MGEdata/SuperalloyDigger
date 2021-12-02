@@ -2,7 +2,7 @@
 """
 Created on Mon May 18 09:17:29 2020
 
-@author: wwr
+@author: Weiren
 """
 import re
 import nltk
@@ -41,7 +41,6 @@ class PhraseParse:
         for word in word_list:
             for i in range(0, len_type):
                 outcome_filter[i] = re.findall(alloy_write_type[i], word)
-                # print(outcome_filter[i])
             for k in range(0, len_type):
                 if outcome_filter[k]:
                     id_word = word_id[word]
