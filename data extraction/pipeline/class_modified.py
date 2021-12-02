@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 10 11:55:01 2020
 
-@author: win
+@author: Weiren
 """
 # from table_extractor import TableExtractor
 
@@ -608,9 +608,9 @@ def get_extraction_outcome(xml_path, save_path, config_path):
     for file_i in range(len(os.listdir(xml_path))):
         tables = None
         all_tables = []
-        doi = xml_name[file_i].replace(".xml", "")  # 根据doi来选择
+        doi = xml_name[file_i].replace(".xml", "")  # choose target file according to doi
         doi = doi.replace("-", "/", 1)
-        xml_n = xml_name[file_i]  # 根据doi来选择
+        xml_n = xml_name[file_i]
         file = xml_path + '/' + str(xml_n)
         try:
             tables, captions = table_extractor_m.get_xml_tables(doi, file)
