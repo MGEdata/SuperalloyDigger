@@ -50,8 +50,7 @@ class AllAttributes:
                 k += 1
         # text + filtered_text_1 + Target sentences
         txt_name = os.listdir(self.text_path) 
-        process_text = []
-        # print()
+        process_text = list()
         for i in range(0, len(txt_name)):
             doi = self.doi_list[i]
             doi = doi.replace("doi:", "")
