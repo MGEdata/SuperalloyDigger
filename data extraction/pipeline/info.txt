@@ -1,0 +1,1 @@
+Relation_extraciton_dp.py和Relation_extraciton_orig.py的区别是前者考虑了全文中高温合金名称的缩写形式，并将缩写名称也作为一条信息添加到最终的数据集中。
