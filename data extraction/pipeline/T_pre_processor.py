@@ -54,7 +54,9 @@ class TPreProcessor:
                         number = re.findall(pattern, word)
                         if unit_replace[self.prop_name]:
                             if unit_replace[self.prop_name][0] in sent and number:
-                                all_txt = all_txt.replace(word, word + unit_replace[self.prop_name][0])
-                            if unit_replace[self.prop_name][0] not in sent and number:
-                                all_txt = all_txt.replace(word, word + unit_replace[self.prop_name][-1])
+                                sent_c = sent.replace(word, word + unit_replace[self.prop_name][0])
+                                all_txt = all_txt.replace(sent, sent_c)
+                            if unit_replace[self.prop_name][0] not in sent and number and len(unit_replace[self.prop_name])==2:
+                                sent_c = sent.replace(word, word + unit_replace[self.prop_name][-1])
+                                all_txt = all_txt.replace(sent, sent_c)
         return all_txt
