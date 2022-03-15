@@ -9,6 +9,8 @@ Automatic extraction of chemical compositions and properties from the scientific
 
 This package is released under MIT License, please see the LICENSE file for details.
 
+This code and data is a companion to the paper, "Automated pipeline for superalloy data by text mining."
+
 **Features**
 ----------------------
 - An automated chemical composition and property data extraction pipeline for superalloy.
@@ -53,6 +55,12 @@ Or simply use the code in your own project.
 Note:The xlrd library version needs to be 1.2.0, run
 ```
 pip install xlrd==1.2.0
+```
+
+**Citing**
+----------------------
+```
+Wang W, Jiang X, Tian S, et al. Automated pipeline for superalloy data by text mining[J]. npj Computational Materials, 2022, 8(1): 1-12.
 ```
 
 **License**
