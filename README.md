@@ -59,6 +59,7 @@ pip install xlrd==1.2.0
 
 **Citing**
 ----------------------
+If you use this work (data or code), please cite the following work as appropriate:
 ```
 Wang W, Jiang X, Tian S, et al. Automated pipeline for superalloy data by text mining[J]. npj Computational Materials, 2022, 8(1): 1-12.
 ```
