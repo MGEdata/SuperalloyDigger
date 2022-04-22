@@ -42,6 +42,7 @@ class TPreProcessor:
         sent_list = nltk.sent_tokenize(all_txt)
         patterns = self.dict_info.no_unit_para
         alloy_blank_type = self.dict_info.alloy_blank_type
+        outcome = list()
         for pattern in alloy_blank_type:
             outcome = re.findall(pattern, all_txt)
         para = patterns[self.prop_name]
