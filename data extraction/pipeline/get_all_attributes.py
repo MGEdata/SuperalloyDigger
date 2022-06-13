@@ -55,7 +55,7 @@ class AllAttributes:
             doi = self.doi_list[i]
             doi = doi.replace("doi:", "")
             doi = doi.replace("/","-")
-            file = open(self.text_path + '/' + str(doi) + '.txt', 'r', encoding='utf-8')
+            file = open(os.path.join(self.text_path,txt_name[i]), 'r', encoding='utf-8')
             sole_text = file.read()
             pre_processor = PreProcessor(sole_text, self.c_path)
             filter_txt = pre_processor.pre_processor()
