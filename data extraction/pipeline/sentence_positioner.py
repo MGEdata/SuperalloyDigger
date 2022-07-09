@@ -61,12 +61,11 @@ class SentencePositioner:
         for sent in sents_list:
             sent_word_list = nltk.word_tokenize(sent)
             if len(sent) < 1000 and all(phase not in sent for phase in self.dict_info.other_phase[self.prop_name]):
-                if any(element in sent_word_list for element in writing_type[self.prop_name]):
+                if self.prop_name in sent_word_list:
                     object_list = SentencePositioner.object_search(self, sent)
                     sub_order = SentencePositioner.alloy_sub_search(self, sent)
                     search = re.findall(r'\S*[Aa]lloy\s', sent)  #
                     if object_list and sub_order:
-                        # print("sub_order:",sub_order)
                         target_sents[i] = sent
                         i += 1
                     elif search and object_list:
