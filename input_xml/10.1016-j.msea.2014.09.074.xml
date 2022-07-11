@@ -1,0 +1,2203 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0921509314011794</prism:url><dc:identifier>doi:10.1016/j.msea.2014.09.074</dc:identifier><eid>1-s2.0-S0921509314011794</eid><prism:doi>10.1016/j.msea.2014.09.074</prism:doi><pii>S0921-5093(14)01179-4</pii><dc:title>Temperature dependence of deformation behavior in a Co–Al–W-base single crystal superalloy </dc:title><prism:publicationName>Materials Science and Engineering: A</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09215093</prism:issn><prism:volume>620</prism:volume><prism:startingPage>36</prism:startingPage><prism:endingPage>43</prism:endingPage><prism:pageRange>36-43</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2015-01-03</prism:coverDate><prism:coverDisplayDate>3 January 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2014 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Shi, L.</dc:creator><dc:creator>Yu, J.J.</dc:creator><dc:creator>Cui, C.Y.</dc:creator><dc:creator>Sun, X.F.</dc:creator><dc:description>
+                  Tensile properties of a single-crystal Co–Al–W–Ni–Cr–Ta alloy with low tungsten content have been studied within the temperatures ranging from 20 to 1000°C at a constant strain rate of 1.0×10−4
+                     s−1. The alloy exhibits comparable yield strength with that of Co–Al–W-base alloys containing more tungsten. From 600°C to 800°C, a yield strength anomaly is observed, probably due to the cross-slip of superdislocations from the octahedral plane to the cube plane. TEM analysis demonstrates that stacking faults (SFs) appear both in γ channels and γ′ precipitates in a wide temperature range. These SFs are responsible for the obvious strain hardening observed in stress–strain curves. From room temperature to 900°C, the deformation is dominated by dislocations shearing γ′ particles. At 1000°C, the main deformation mechanism is dislocations bypassing γ′ particles.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Co–Al–W-base alloy</dcterms:subject><dcterms:subject>Tensile behavior</dcterms:subject><dcterms:subject>Dislocation structures</dcterms:subject><dcterms:subject>Stacking fault</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0921509314011794" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0921509314011794" rel="scidir"/></coredata><objects><object ref="si0005" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="329" height="53" size="2004">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-si0005.gif?httpAccept=%2A%2F%2A</object><object ref="si0004" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="233" height="16" size="915">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-si0004.gif?httpAccept=%2A%2F%2A</object><object ref="si0003" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="11" height="12" size="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-si0003.gif?httpAccept=%2A%2F%2A</object><object ref="si0002" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="11" height="12" size="120">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-si0002.gif?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="312" height="16" size="1161">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-si0001.gif?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="687" height="225" size="56431">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="250" size="52353">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="680" height="454" size="122992">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="684" height="224" size="61760">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="689" height="225" size="56045">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="790" height="406" size="141852">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="363" height="272" size="34505">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="689" height="380" size="45210">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="672" height="289" size="43697">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="72" size="6661">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="146" size="13583">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="146" size="14701">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="72" size="6703">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="72" size="6506">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="113" size="10595">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="164" size="5980">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="121" size="3300">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="94" size="5090">https://api.elsevier.com/content/object/eid/1-s2.0-S0921509314011794-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84908154337</scopus-id><scopus-eid>2-s2.0-84908154337</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84908154337" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271387</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Science and Engineering: A</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSSCIENCEENGINEERINGA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20140926">2014-09-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20140926">2014-09-26</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-12-06T00:54:27</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0921509314011794</xocs:eid>
+      <xocs:pii-formatted>S0921-5093(14)01179-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0921509314011794</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.msea.2014.09.074</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0921509314X00250</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T02:55:40.681601-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150103</xocs:date-search-begin>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1411743362">2014-09-26T14:56:02.016067Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0921-5093</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09215093</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>620</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>620</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 620</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>36</xocs:first-fp>
+      <xocs:last-lp>43</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>36</xocs:first-page>
+         <xocs:last-page>43</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20150103</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>3 January 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-01-03</xocs:cover-date-start>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2014 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>TEMPERATUREDEPENDENCEDEFORMATIONBEHAVIORINACOALWBASESINGLECRYSTALSUPERALLOY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SHI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Microstructures</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Tensile behavior</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Fracture surfaces</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Dislocation structures</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.4.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Low temperature regime (20–600<ce:hsp sp="0.25"/>°C)</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.4.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Intermediate temperature regime (600–800<ce:hsp sp="0.25"/>°C)</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.4.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>High temperature regime (900–1000<ce:hsp sp="0.25"/>°C)</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The yield strength anomaly</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Temperature dependence of SFs formation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>Reference</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>SATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>90</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>POLLOCK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>58</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>BAUER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1197</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1288</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>44</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>KLEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2713</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>SHINAGAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1474</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>OOSHIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>MOTTURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>138</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>WALTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>385</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>KUBIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>991</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>MILLIGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>WHEATON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>OKAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3667</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>154</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>PYCZAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>NABARRO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>513</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>MILLIGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>RAE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1067</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>YAMANAKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>MILLIGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2309</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2959</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>PAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1081</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>SUZUKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>CHIBA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>751</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2731</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>KOIZUMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2901</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SHIX2015X36</xocs:refkey3>
+         <xocs:refkey4lp>SHIX2015X36X43</xocs:refkey4lp>
+         <xocs:refkey4ai>SHIX2015X36XL</xocs:refkey4ai>
+         <xocs:refkey5>SHIX2015X36X43XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0921-5093(14)01179-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0921509314011794</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0921509314011794</xocs:eid>
+         <xocs:doi>10.1016/j.msea.2014.09.074</xocs:doi>
+         <xocs:cid>271387</xocs:cid>
+         <xocs:timestamp>2014-12-06T11:13:24.719202-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-01-03</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/MAIN/application/pdf/3a48e4cd3fbeb014fc84977119a56534/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/MAIN/application/pdf/3a48e4cd3fbeb014fc84977119a56534/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2907819</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0921509314011794-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/PREVIEW/image/png/9ea9787f8ed1f1503ad3516f141cf482/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/PREVIEW/image/png/9ea9787f8ed1f1503ad3516f141cf482/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61877</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-si0005.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/STRIPIN/image/gif/3a3ba57c3f074078c229291198f82dec/si0005.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/STRIPIN/image/gif/3a3ba57c3f074078c229291198f82dec/si0005.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0005</xocs:file-basename>
+               <xocs:filename>si0005.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2004</xocs:filesize>
+               <xocs:pixel-height>53</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-si0004.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/STRIPIN/image/gif/96f73249b005ed9e1f3c8a30c80a9fdb/si0004.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/STRIPIN/image/gif/96f73249b005ed9e1f3c8a30c80a9fdb/si0004.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0004</xocs:file-basename>
+               <xocs:filename>si0004.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>915</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>233</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-si0003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/STRIPIN/image/gif/17e97b00c06645cf2f8f6190fb0c625b/si0002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/STRIPIN/image/gif/17e97b00c06645cf2f8f6190fb0c625b/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0003</xocs:file-basename>
+               <xocs:filename>si0003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>120</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>11</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-si0002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/STRIPIN/image/gif/17e97b00c06645cf2f8f6190fb0c625b/si0002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/STRIPIN/image/gif/17e97b00c06645cf2f8f6190fb0c625b/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0002</xocs:file-basename>
+               <xocs:filename>si0002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>120</xocs:filesize>
+               <xocs:pixel-height>12</xocs:pixel-height>
+               <xocs:pixel-width>11</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/STRIPIN/image/gif/55bb40dfae0a1dfe95b60ddb3ab961ba/si0001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/STRIPIN/image/gif/55bb40dfae0a1dfe95b60ddb3ab961ba/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1161</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>312</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr9/DOWNSAMPLED/image/jpeg/eb8c70a74de9d5ac7d2bd71fb7d080ec/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr9/DOWNSAMPLED/image/jpeg/eb8c70a74de9d5ac7d2bd71fb7d080ec/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56431</xocs:filesize>
+               <xocs:pixel-height>225</xocs:pixel-height>
+               <xocs:pixel-width>687</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr8/DOWNSAMPLED/image/jpeg/63c198f7a969e5c2ed5814ca42532ee3/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr8/DOWNSAMPLED/image/jpeg/63c198f7a969e5c2ed5814ca42532ee3/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52353</xocs:filesize>
+               <xocs:pixel-height>250</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr7/DOWNSAMPLED/image/jpeg/a3ae41d35429ab37616bb028da3ac10e/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr7/DOWNSAMPLED/image/jpeg/a3ae41d35429ab37616bb028da3ac10e/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>122992</xocs:filesize>
+               <xocs:pixel-height>454</xocs:pixel-height>
+               <xocs:pixel-width>680</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr6/DOWNSAMPLED/image/jpeg/3da751f441169d755a1ee5ac664d0862/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr6/DOWNSAMPLED/image/jpeg/3da751f441169d755a1ee5ac664d0862/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>61760</xocs:filesize>
+               <xocs:pixel-height>224</xocs:pixel-height>
+               <xocs:pixel-width>684</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr5/DOWNSAMPLED/image/jpeg/1b0e6612e4c0a5a615b06943ddc723b7/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr5/DOWNSAMPLED/image/jpeg/1b0e6612e4c0a5a615b06943ddc723b7/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56045</xocs:filesize>
+               <xocs:pixel-height>225</xocs:pixel-height>
+               <xocs:pixel-width>689</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr4/DOWNSAMPLED/image/jpeg/eddd75cbd35606e353a82ee022bbb23a/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr4/DOWNSAMPLED/image/jpeg/eddd75cbd35606e353a82ee022bbb23a/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>141852</xocs:filesize>
+               <xocs:pixel-height>406</xocs:pixel-height>
+               <xocs:pixel-width>790</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr3/DOWNSAMPLED/image/jpeg/3ff5308d6a15bcf4f32d4ace8a5332b8/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr3/DOWNSAMPLED/image/jpeg/3ff5308d6a15bcf4f32d4ace8a5332b8/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34505</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>363</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr2/DOWNSAMPLED/image/jpeg/203028edde9b31a72196a83e734c99f8/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr2/DOWNSAMPLED/image/jpeg/203028edde9b31a72196a83e734c99f8/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45210</xocs:filesize>
+               <xocs:pixel-height>380</xocs:pixel-height>
+               <xocs:pixel-width>689</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr1/DOWNSAMPLED/image/jpeg/1f7ee94915738fca6b3935e9d7012413/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr1/DOWNSAMPLED/image/jpeg/1f7ee94915738fca6b3935e9d7012413/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43697</xocs:filesize>
+               <xocs:pixel-height>289</xocs:pixel-height>
+               <xocs:pixel-width>672</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr9/THUMBNAIL/image/gif/36ecbd4b672141eaf7670f65d88c96aa/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr9/THUMBNAIL/image/gif/36ecbd4b672141eaf7670f65d88c96aa/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6661</xocs:filesize>
+               <xocs:pixel-height>72</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr8/THUMBNAIL/image/gif/5706756d94bd698df59a24b08582cdee/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr8/THUMBNAIL/image/gif/5706756d94bd698df59a24b08582cdee/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13583</xocs:filesize>
+               <xocs:pixel-height>146</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr7/THUMBNAIL/image/gif/ba82eab95e552a2bed2f93c54aa242a9/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr7/THUMBNAIL/image/gif/ba82eab95e552a2bed2f93c54aa242a9/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14701</xocs:filesize>
+               <xocs:pixel-height>146</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr6/THUMBNAIL/image/gif/5aab14eb1b2e5a12b49c8791fa8c7be7/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr6/THUMBNAIL/image/gif/5aab14eb1b2e5a12b49c8791fa8c7be7/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6703</xocs:filesize>
+               <xocs:pixel-height>72</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr5/THUMBNAIL/image/gif/d49f320544aa0667489686613b83bf1b/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr5/THUMBNAIL/image/gif/d49f320544aa0667489686613b83bf1b/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6506</xocs:filesize>
+               <xocs:pixel-height>72</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr4/THUMBNAIL/image/gif/765e0ef656ea3b151c2290e100318b24/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr4/THUMBNAIL/image/gif/765e0ef656ea3b151c2290e100318b24/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10595</xocs:filesize>
+               <xocs:pixel-height>113</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr3/THUMBNAIL/image/gif/7fad150f5688c19165c6f49f42a5d88d/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr3/THUMBNAIL/image/gif/7fad150f5688c19165c6f49f42a5d88d/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5980</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr2/THUMBNAIL/image/gif/d4a97493f5af8a5dea14990b1b6dee7a/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr2/THUMBNAIL/image/gif/d4a97493f5af8a5dea14990b1b6dee7a/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3300</xocs:filesize>
+               <xocs:pixel-height>121</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921509314011794-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921509314011794/gr1/THUMBNAIL/image/gif/10fbf7e52fd90314dfe090695d217219/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921509314011794/gr1/THUMBNAIL/image/gif/10fbf7e52fd90314dfe090695d217219/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5090</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.2">
+         <item-info>
+            <jid>MSA</jid>
+            <aid>31589</aid>
+            <ce:pii>S0921-5093(14)01179-4</ce:pii>
+            <ce:doi>10.1016/j.msea.2014.09.074</ce:doi>
+            <ce:copyright type="full-transfer" year="2014">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">SEM micrographs of γ′ precipitates after heat treatment (a) and the particle size distribution (b).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">True stain–stress curves of the alloy at different test temperatures and the partial enlargement of A and B in curves tested at room temperature and 900<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">Temperature dependence of the 0.2% yield strength of the alloy: together with 0.2% yield stresses of the PWA 1480, MarM-509 and two single-crystal γ/γ′ two-phase Co-base alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">SEM images of the fracture surfaces at room temperature (a), 700<ce:hsp sp="0.25"/>°C (c) and 1000<ce:hsp sp="0.25"/>°C (e); SEM images (b), (d) and (f) are the partial enlargement of A, B and C area, respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">Bright-field TEM images of the deformation microstructures after fractured at room temperature (TEM foil perpendicular to external stress axis). (a) SFs in γ′ precipitates and γ channels. (b) Fault loops within γ′ precipitates. Beam direction close to the [001] zone axial.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">Bright-field TEM images of the deformation microstructures after fractured at 300<ce:hsp sp="0.25"/>°C (TEM foil perpendicular to external stress axis). (a) SFs in γ′ precipitates. (b) Fault loops within γ′ precipitates.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="sp0035" view="all">Bright-field TEM image of the deformation microstructure after fractured at: (a) 600<ce:hsp sp="0.25"/>°C, (b) 700<ce:hsp sp="0.25"/>°C, (c) 800<ce:hsp sp="0.25"/>°C and (d) is the partial enlargement of the black box area in (c) (TEM foil perpendicular to external stress axis). Beam direction close to the [001] zone axial.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="sp0040" view="all">Bright-field TEM image of the deformation microstructure after fractured at 900<ce:hsp sp="0.25"/>°C (TEM foil perpendicular to external stress axis). Beam direction close to the [001] zone axial.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="sp0045" view="all">TEM image of the deformation microstructures after fractured at 1000<ce:hsp sp="0.25"/>°C (TEM foil perpendicular to external stress axis). (a) Dislocations bypassing γ′ precipitates. (b) SFs in γ′ precipitates.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="sp0050" view="all">Liquidus, solidus, γ′-solvus temperatures and density of the investigated alloy, together with those of other Co-base and Ni-base superalloys.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Alloy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4" rowsep="1" align="left">Transformation temperature (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left">Density (g<hsp sp="0.25"/>cm<sup loc="post">−3</sup>)</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Solidus</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Liquidus</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">γ′ solvus</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5W</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1395</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1426</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.32</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Co–7.3Al–6.8W (at%) <cross-ref id="cr0005" refid="bib5">[5]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">854</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.18</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Co–9.2Al–9W (at%) <cross-ref id="cr0010" refid="bib1">[1]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1441</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1466</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">985</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.54</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Co–8.8Al–9.8W–2Ta (at%) <cross-ref id="cr0015" refid="bib4">[4]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1407</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1451</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1079</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">&gt;9.54</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Co–7.3Al–7.2W–20.2Ni (at%) <cross-ref id="cr0020" refid="bib5">[5]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">881</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.29</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Co–7.8Al–7.8W–4.5Cr–2Ta (at%) <cross-ref id="cr0025" refid="bib4">[4]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1412</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1453</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">960</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Co–9.9Al–4.8W–1.8Ta (at%) <cross-ref id="cr0030" refid="bib5">[5]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">983</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.09</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CMSX-4 <cross-ref id="cr0035" refid="bib10">[10]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1326</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1370</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1309</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8.70</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Temperature dependence of deformation behavior in a Co–Al–W-base single crystal superalloy</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005">
+                  <ce:given-name>L.</ce:given-name>
+                  <ce:surname>Shi</ce:surname>
+               </ce:author>
+               <ce:author id="au0010">
+                  <ce:given-name>J.J.</ce:given-name>
+                  <ce:surname>Yu</ce:surname>
+                  <ce:cross-ref id="cr0040" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0015">
+                  <ce:given-name>C.Y.</ce:given-name>
+                  <ce:surname>Cui</ce:surname>
+               </ce:author>
+               <ce:author id="au0020">
+                  <ce:given-name>X.F.</ce:given-name>
+                  <ce:surname>Sun</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>Institute of Metal Research, Chinese Academy of Sciences, Shenyang 110016, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Metal Research, Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Shenyang</sa:city>
+                     <sa:postal-code>110016</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +86 24 2397 1713.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="6" year="2014"/>
+            <ce:date-revised day="17" month="9" year="2014"/>
+            <ce:date-accepted day="18" month="9" year="2014"/>
+            <ce:abstract id="ab0005" class="author" view="all"><ce:abstract-sec id="abs0005" view="all">
+                  <ce:simple-para id="sp0055" view="all">Tensile properties of a single-crystal Co–Al–W–Ni–Cr–Ta alloy with low tungsten content have been studied within the temperatures ranging from 20 to 1000<ce:hsp sp="0.25"/>°C at a constant strain rate of 1.0×10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>. The alloy exhibits comparable yield strength with that of Co–Al–W-base alloys containing more tungsten. From 600<ce:hsp sp="0.25"/>°C to 800<ce:hsp sp="0.25"/>°C, a yield strength anomaly is observed, probably due to the cross-slip of superdislocations from the octahedral plane to the cube plane. TEM analysis demonstrates that stacking faults (SFs) appear both in γ channels and γ′ precipitates in a wide temperature range. These SFs are responsible for the obvious strain hardening observed in stress–strain curves. From room temperature to 900<ce:hsp sp="0.25"/>°C, the deformation is dominated by dislocations shearing γ′ particles. At 1000<ce:hsp sp="0.25"/>°C, the main deformation mechanism is dislocations bypassing γ′ particles.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>Co–Al–W-base alloy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Tensile behavior</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Dislocation structures</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Stacking fault</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Nickel-base superalloys, possessing exceptional mechanical properties due to the well known strengthening of L1<ce:inf loc="post">2</ce:inf> type γ′ precipitates, are widely used for manufacturing aircraft and power-generation engine turbines. Recently, Co-base superalloys strengthened by γ′ (Co<ce:inf loc="post">3</ce:inf>(Al,W)) with L1<ce:inf loc="post">2</ce:inf> structure have gained substantial interest. A series of experimental <ce:cross-refs id="crs0005" refid="bib1 bib2 bib3 bib4 bib5 bib6 bib7">[1–7]</ce:cross-refs> and computational <ce:cross-refs id="crs0010" refid="bib8 bib9">[8,9]</ce:cross-refs> efforts have been done to study the effects of alloying elements on the microstructure and mechanical property of the new Co-base alloys, suggesting that Co<ce:inf loc="post">3</ce:inf>(Al,W) has some similarities with that of Ni<ce:inf loc="post">3</ce:inf>Al and can be practically used as the strengthening phase of Co-base superalloys.</ce:para>
+                  <ce:para id="p0010" view="all">However, in the Co–Al–W-base alloys, large amount of W is added to stabilize Co<ce:inf loc="post">3</ce:inf>(Al,W), leading to a high density. The γ′ solvus temperature is relatively lower compared with that of Ni-base superalloys, a big restriction on high temperature applications. Efforts have been dedicated to improve the two-phase γ/γ′ microstructural stability at elevated temperature. Ta is effective to improve the γ′ solvus temperature in ternary Co–Al–W system <ce:cross-refs id="crs0015" refid="bib3 bib4">[3,4]</ce:cross-refs>. The γ′ solvus temperature of Co–9Al–8W–2Ta–2Cr (at%) alloy is above 1050<ce:hsp sp="0.25"/>°C which is slightly lower than that of Co–9Al–8W–2Ta (at%) alloy <ce:cross-ref id="cr0045" refid="bib3">[3]</ce:cross-ref>, while the γ′ solvus temperature of Co–7.8Al–7.8W–2Ta–4.5Cr (at%) alloy is only 960<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cr0050" refid="bib4">[4]</ce:cross-ref>. In a Co–7.5Al–7W–<ce:italic>x</ce:italic>Cr (<ce:italic>x</ce:italic>=13, 17, 21, at%) alloy system <ce:cross-ref id="cr0055" refid="bib5">[5]</ce:cross-ref>, the γ′ solvus temperature is decreasing as the Cr content increasing. It seems that the addition of Cr makes against the improvement of γ′ solvus temperature. With 8<ce:hsp sp="0.25"/>at% Cr additions, the oxidation resistance of this new type Co-base superalloys is approaching the level of MAR-M 509 at 800<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cr0060" refid="bib6">[6]</ce:cross-ref>. Recent investigations by Shinagawa et al. <ce:cross-ref id="cr0065" refid="bib7">[7]</ce:cross-ref> indicate that substitution of Ni for W can stabilize the γ′ phase and slightly increase the γ′ solvus temperature, which is beneficial to decrease the density. Besides, a combined addition of Cr and Ni to ternary Co–Al–W system can improve the γ′ solvus temperature <ce:cross-ref id="cr0070" refid="bib5">[5]</ce:cross-ref>. It can be seen that the combination of alloying elements greatly affects the γ′ solvus temperature of Co–Al–W-base alloys. It is interesting to know the effect of a combined addition of Ni, Cr and Ta on the microstructure and property of Co–Al–W alloy system. Thus, in the present study, a Co–Al–W–Ni–Cr–Ta alloy system is tentatively designed, whose tungsten amount is merely half of those reported Co-base alloys <ce:cross-refs id="crs0020" refid="bib3 bib4">[3,4]</ce:cross-refs>, and attentions are paid to the microstructure and tensile properties of the alloy and characterizing the main deformation microstructures with the aim of comparison to those of Co-base alloys containing high amount of tungsten.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Experimental procedure</ce:section-title>
+                  <ce:para id="p0015" view="all">The nominal composition (at%) of the alloy studied is as follows: Al 10, W 5, Ni 17,Cr 6, Ta 2.7, balance by Co (named as 5W). The master alloy was melted in a vacuum induction furnace, and then directionally solidified into [001] single crystal rods by Bridgman technique at a constant withdraw rate of 6<ce:hsp sp="0.25"/>mm/min. The melting point and γ′ solvus temperature of the alloy were determined by Differential Thermal Analysis (DTA) under high purity Ar atmosphere with a heating rate of 10<ce:hsp sp="0.25"/>°C/min. The heat treatments were carried out as follows: 1310<ce:hsp sp="0.25"/>°C/10<ce:hsp sp="0.25"/>h, furnace cooling+1000<ce:hsp sp="0.25"/>°C/36<ce:hsp sp="0.25"/>h, air cooling+750<ce:hsp sp="0.25"/>°C/24<ce:hsp sp="0.25"/>h, air cooling. Heat-treated samples were polished in a solution of 42<ce:hsp sp="0.25"/>ml H<ce:inf loc="post">3</ce:inf>PO<ce:inf loc="post">4</ce:inf>+34<ce:hsp sp="0.25"/>ml H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>+24<ce:hsp sp="0.25"/>ml H<ce:inf loc="post">2</ce:inf>O at 10<ce:hsp sp="0.25"/>V. The microstructure was analyzed using a Scanning Electron Microscope (SEM). The volume fraction and size distribution of γ′ precipitates were analyzed by image analyzer.</ce:para>
+                  <ce:para id="p0020" view="all">Tensile specimens with a nominal 35<ce:hsp sp="0.25"/>mm gage length and a diameter of 5<ce:hsp sp="0.25"/>mm were machined from heat-treated samples. Tensile tests were conducted at a strain rate of 1×10<ce:sup loc="post">−4</ce:sup>
+                     <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> from room temperature to 1000<ce:hsp sp="0.25"/>°C with the crystal growth direction parallel to the tension loading direction. During the test, the temperature variation was maintained within ±2<ce:hsp sp="0.25"/>°C. At least two identical specimens were tested at each temperature. A JMS-6301F field-emission scanning electron microscope (SEM) was used to observe the fractures. Transverse sections of the fractured specimens were cut into discs with 0.5<ce:hsp sp="0.25"/>mm in thickness. These discs were polished to 50<ce:hsp sp="0.25"/>μm, and then subjected to twin-jet polishing in a solution of methanol with 5<ce:hsp sp="0.25"/>vol% perchloric acid at −30<ce:hsp sp="0.25"/>°C and 18–20<ce:hsp sp="0.25"/>V. A JEM 2100 Transmission Electron Microscope (TEM) was used for dislocations analysis.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0025">Results</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0030">Microstructures</ce:section-title>
+                     <ce:para id="p0025" view="all">The transformation temperatures measured by DTA are given in <ce:float-anchor refid="t0005"/>
+                        <ce:cross-ref id="cr0075" refid="t0005">Table 1</ce:cross-ref>. For comparison, the transformation temperatures of other Co-base superalloys with γ/γ′ microstructure and the Ni-base superalloy CMSX-4 are also given in <ce:cross-ref id="cr0080" refid="t0005">Table 1</ce:cross-ref>. It can be seen that the solidus and liquidus of Co-base superalloys are higher than those of Ni-base superalloys. This suggests that there is a possibility for greater temperature capability compared to Ni-base alloys. However, the γ′ solvus temperature of Co-base alloys is still much lower than that of Ni-base superalloy CMSX-4. By comparing Co–9Al–9W (at%) alloy and Co–7.3Al–6.8W (at%) alloy, the γ′ solvus temperature is decreased from 985<ce:hsp sp="0.25"/>°C to 854<ce:hsp sp="0.25"/>°C, indicating a lower W content depresses the stability of Co<ce:inf loc="post">3</ce:inf>(Al,W). With large amount of Ni additions, the γ′ solvus temperature increases slightly. As mentioned earlier, alloying with certain amount of Cr will result in the decrease of γ′ solvus temperature. Possessing a higher amount of W and Ta, the γ′ solvus temperature of Co–7.8Al–7.8W–4.5Cr–2Ta (at%) alloy is lower than that of Co–9.9Al–4.8W–1.8Ta (at%) alloy, probably associated with the addition of Cr. Thus, simple substitution of Ni for W or alloying with certain amount of Cr in Co–Al–W–Ta alloy system is not valid to improve the γ′ solvus temperature. The 5W alloy exhibits a relative higher γ′ solvus temperature and lower density compared with those of Co–8.8Al–9.8W–2Ta (at%) alloy, suggesting that alloying with high Ni and high Ta can overwhelm negative Cr effect as well as the negative low W effect.</ce:para>
+                     <ce:para id="p0030" view="all">The SEM micrographs and frequency size distribution of γ′ precipitates of the heat-treated sample are shown in <ce:float-anchor refid="f0005"/>
+                        <ce:cross-ref id="cr0085" refid="f0005">Fig. 1</ce:cross-ref>. The 5W alloy is only constituted of γ and γ′ phases. The γ′ precipitates exhibit cuboidal morphology, aligned along the 〈100〉 direction, which is similar to that of the typical Ni-base superalloys. It is possible to note that the size distribution is close to a Gaussian distribution (<ce:cross-ref id="cr0090" refid="f0005">Fig. 1</ce:cross-ref>b). The average size of γ′ precipitates is about 310<ce:hsp sp="0.25"/>nm. Based on the results of image analyzer, the γ′ volume fraction of the alloy is about 65%.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0035">Tensile behavior</ce:section-title>
+                     <ce:para id="p0035" view="all">
+                        <ce:float-anchor refid="f0010"/>
+                        <ce:cross-ref id="cr0095" refid="f0010">Fig. 2</ce:cross-ref> shows true stress–strain curves of the alloy tested at different temperatures. Crystal orientations of four single-crystal bars used in the present study are about 5°, 6°, 3°, 8° away from [001], respectively. It can be seen that the alloy exhibits different tensile behavior over the experimental temperature ranges. That is at room temperature, a strong strain hardening phenomenon is observed. With the increase of temperature, the degree of strain hardening becomes weak. The partial enlargement of A in the tensile curve tested at room temperature is shown in the top-right corner, in which serrations are observed. Serrations are also observed at the initial stage after yielding up to 800<ce:hsp sp="0.25"/>°C. Such similar phenomenon is also observed in several Ni-base single-crystal superalloys <ce:cross-ref id="cr0100" refid="bib11">[11]</ce:cross-ref>, which is due to a difficult dislocation generation step in the γ matrix and then an easy propagation step in an octahedral slip plane. So far, the authors have studied the effect of microstructures, strain rate and temperature on the serrations. The occurrence of serrations observed in the present study will be discussed in another paper. It seems that the curve tested at 900<ce:hsp sp="0.25"/>°C exhibits two elastic stages. It is not an accidental phenomenon, which is also observed in the other two specimens tested in same conditions. The partial enlargement of the kinking region in the 900<ce:hsp sp="0.25"/>°C curve is shown in the lower right corner. Some small serrations can be observed, while serrations are hardly observed beyond the region. It is not clear whether the serrations are associated with the kinking. Further work needs to be done to clarify the uncommon phenomenon.</ce:para>
+                     <ce:para id="p0040" view="all">The 0.2% yield strength as a function of temperature is plotted in <ce:float-anchor refid="f0015"/>
+                        <ce:cross-ref id="cr0105" refid="f0015">Fig. 3</ce:cross-ref>. For comparison, those of PWA1480 single crystal superalloy <ce:cross-ref id="cr0110" refid="bib12">[12]</ce:cross-ref>, Mar-M509 superalloy <ce:cross-ref id="cr0115" refid="bib13">[13]</ce:cross-ref> and two γ′-strengthened Co-base superalloys <ce:cross-ref id="cr0120" refid="bib4">[4]</ce:cross-ref> are also included. It can be seen that the strength of γ′-strengthened Co-base superalloys is higher than that of a conventional Co-base superalloy Mar-M509. At high temperature, the yield strength of γ′-strengthened Co-base superalloys is even comparable to that of PWA1480 at a similar strain rate of 8.33×10<ce:sup loc="post">−5</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup> above 871<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cr0125" refid="bib12">[12]</ce:cross-ref>, so the Co-base alloy system has a great potential for high-temperature structural applications above 900<ce:hsp sp="0.25"/>°C. However the intermediate-temperature strength of γ′-strengthened Co-base superalloys is still inferior to that of Ni-base superalloys. For Ni-base superalloys, the deformation mechanism below peak temperature is well accepted that γ′ precipitates are cut by a/2〈110〉 dislocations on octahedral slip forming an antiphase boundary (APB). Analogously, in Co-base superalloys, γ′ precipitates are cut by a/2〈110〉 dislocations on octahedral as well as cubic slip from 600<ce:hsp sp="0.25"/>°C to the peak temperature <ce:cross-ref id="cr0130" refid="bib4">[4]</ce:cross-ref>. In the single phase Co<ce:inf loc="post">3</ce:inf>(Al,W) alloys <ce:cross-ref id="cr0135" refid="bib14">[14]</ce:cross-ref>, extensive APB-coupled dislocations are observed below the peak temperature. The associated APB energy, <ce:italic>γ</ce:italic>
+                        <ce:inf loc="post">APB</ce:inf>, represents a barrier which must be overcome if cutting of particle occurs, and the precipitate-cutting stress is expected to be in the order <ce:italic>γ</ce:italic>
+                        <ce:inf loc="post">APB</ce:inf>/<ce:italic>b</ce:italic>, where <ce:italic>b</ce:italic> is the Burgers vector. Thus, for γ′-strengthened Co-base superalloys the strength can be enhanced by alloying elements that increase the APB energy. In view of inadequate understanding of the alloying effect on APB energy, availability of a thermodynamic database would provide useful guidance in identifying the key alloying elements.</ce:para>
+                     <ce:para id="p0045" view="all">Similar to another two Co-base alloys in <ce:cross-ref id="cr0140" refid="f0015">Fig. 3</ce:cross-ref>, the 5W alloy exhibits a three-stage temperature dependence of the stress. In the low temperature range (below 600<ce:hsp sp="0.25"/>°C), the strength decreases with increasing temperature. In intermediate temperature range an anomalous behavior is found which peaks at around 800<ce:hsp sp="0.25"/>°C. In the high temperature range (above 800<ce:hsp sp="0.25"/>°C), the strength decreases again. At room temperature, the yield strength of 5W alloy is lower than that of Co–8.8Al–9.8W–2Ta (at%) alloy. With temperature increasing, the 5W alloy and Co–8.8Al–9.8W–2Ta (at%) possess similar strength up to 700<ce:hsp sp="0.25"/>°C. Nevertheless, above the peak temperature, the strength of the 5W alloy is inferior to that of Co–8.8Al–9.8W–2Ta (at%), exhibiting a slightly rapid decrease in strength. Compared with Co–9.4Al–10.7W (at%), the 5W alloy exhibits an higher yield strength during the testing temperature range. This suggests that despite of alloying with a small quantity of tungsten the strength still possesses superior strength with Ni and Ta additions.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0040">Fracture surfaces</ce:section-title>
+                     <ce:para id="p0050" view="all">
+                        <ce:float-anchor refid="f0020"/>
+                        <ce:cross-ref id="cr0145" refid="f0020">Fig. 4</ce:cross-ref> shows the fractures of specimens tested at room temperature, 700<ce:hsp sp="0.25"/>°C and 1000<ce:hsp sp="0.25"/>°C. Below the peak temperature, the samples exhibit similar fracture characteristics. At room temperature and at 700<ce:hsp sp="0.25"/>°C, fractures are wedge-shaped, and cross sections exhibit elliptical shape, indicating a predominance of a single 〈110〉{111} type slip system. Less river patterns and cleavage ledges are observed in the fracture surfaces. The dimple morphology shown in <ce:cross-ref id="cr0150" refid="f0020">Fig. 4</ce:cross-ref>b and d confirms that the specimens fractured in a ductile mode under tension. At 1000<ce:hsp sp="0.25"/>°C, the fracture surface is cavernous. Many pores as well as facets can be observed in <ce:cross-ref id="cr0155" refid="f0020">Fig. 4</ce:cross-ref>f. At higher temperature and lower strain rate, the movement of dislocations as well as pores formed during solidification can lead to the coalescence of micropores. The continuous coalescence of micropores can result in the spread of microcracks and the occurrence of facets. The spread of microcracks will result in the formation of large cracks, which can contribute to the fracture rapidly. It can be inferred that the specimen tested at 1000<ce:hsp sp="0.25"/>°C fractured in such mode.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0045">Dislocation structures</ce:section-title>
+                     <ce:section id="s0040" view="all">
+                        <ce:label>3.4.1</ce:label>
+                        <ce:section-title id="sect0050">Low temperature regime (20–600<ce:hsp sp="0.25"/>°C)</ce:section-title>
+                        <ce:para id="p0055" view="all">
+                           <ce:float-anchor refid="f0025"/>
+                           <ce:cross-ref id="cr0160" refid="f0025">Fig. 5</ce:cross-ref> shows the deformation microstructures of 5W alloy tested at room temperature. Three SF configurations are observed in the γ′ precipitates or in γ channels, which are SFs extending from the γ/γ′ interface to γ′ precipitates, SF loops within γ′ and SFs in γ matrix. It can be seen that there are more SFs in the γ channels of the [010] direction than those in the [100] direction, which means the [010] and [100] channels are under different stress states. The maldistribution of SFs between [010] channels and [100] channels in tensile specimens tested at room temperature was also observed in a single-crystal Ni-base superalloy, which was attributed to the deviation of crystal orientation from the ideal [001] <ce:cross-ref id="cr0165" refid="bib15">[15]</ce:cross-ref>. A similar dislocation activity in parallel or vertical channels is also observed in Co–9Al–9W–0.1B (at%) alloy after creep tested at 850<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cr0170" refid="bib16">[16]</ce:cross-ref>. Their view on such behavior is based on Nabarro׳s predictions <ce:cross-ref id="cr0175" refid="bib17">[17]</ce:cross-ref> that in the first stage of creep the dislocation activity is contained in one family of matrix channels either parallel (vertical) or perpendicular (horizontal) to the external applied stress and the preferred channel is dependent on the mode of creep deformation either compressive or tensile and the sign of the lattice mismatch between the phases γ and γ′. The tensile test is a transient deformation process, much similar with the primary stage of creep. Thus, the two conditions mentioned above may result in the different local stress states in both orientations of matrix channels. SFs crossings and interactions with dislocations in the γ channel are expected to be effective impediments to gliding dislocations on different planes. It can be deduced that the strong strain hardening phenomenon observed at room temperature is related to the occurrence of SFs in the γ channel. High density of SFs extending the entire γ′ phase is frequently observed. In contrast to the single, isolated SFs shearing the entire γ′ particles, fault loops are occasionally observed within γ′, as shown in <ce:cross-ref id="cr0180" refid="f0025">Fig. 5</ce:cross-ref>. The formation of three SF configurations will be discussed in <ce:cross-ref id="cr0185" refid="s0065">Section 4.2</ce:cross-ref>. The deformation microstructures observed at 300<ce:hsp sp="0.25"/>°C (shown in <ce:float-anchor refid="f0030"/>
+                           <ce:cross-ref id="cr0190" refid="f0030">Fig. 6</ce:cross-ref>) are similar to those observations at room temperature. SFs in γ′ precipitates and fault loops are also observed.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0045" view="all">
+                        <ce:label>3.4.2</ce:label>
+                        <ce:section-title id="sect0055">Intermediate temperature regime (600–800<ce:hsp sp="0.25"/>°C)</ce:section-title>
+                        <ce:para id="p0060" view="all">
+                           <ce:float-anchor refid="f0035"/>
+                           <ce:cross-ref id="cr0195" refid="f0035">Fig. 7</ce:cross-ref> demonstrates the deformation microstructures at 600<ce:hsp sp="0.25"/>°C, 700<ce:hsp sp="0.25"/>°C and 800<ce:hsp sp="0.25"/>°C, which correspond to temperatures below, near-peak and at the peak stress. At 600<ce:hsp sp="0.25"/>°C (<ce:cross-ref id="cr0200" refid="f0035">Fig. 7</ce:cross-ref>a), SFs are also observed both in γ′ precipitates and γ channels. Some straight dislocations in the γ′ precipitates are observed as well (marked by dark arrows), indicating the shearing mechanism. In the single-crystal Co–8.8Al–9.8W–2Ta (at%) and Co–9.4Al–10.7W(at%) alloys after compression at same temperature, pairs of a/2〈110〉-type dislocations that sheared into γ′ precipitates were frequently observed <ce:cross-ref id="cr0205" refid="bib4">[4]</ce:cross-ref>. Since the a/2〈110〉 dislocation in the γ′ precipitate can dissociate into a/3〈121〉 dislocation and a/6〈112〉 Shockley dislocation accompanying with SFs, the SFs observed in present alloy can be also formed in such way. From the true stress–strain curve at 600<ce:hsp sp="0.25"/>°C, obviously work hardening can be observed. SFs in the γ channels may partially contribute to the work hardening.</ce:para>
+                        <ce:para id="p0065" view="all">At 700<ce:hsp sp="0.25"/>°C (<ce:cross-ref id="cr0210" refid="f0035">Fig. 7</ce:cross-ref>b), a typical feature is dislocations shearing into γ′ precipitates. These dislocations (marked by white arrows) lie in the [010] direction, and TEM analysis demonstrates that these dislocations are the a/3〈121〉-type dislocations lying in the {111} plane in the γ′ precipitate while at two beam conditions SFs are invisible. The dislocations (marked by single white arrow in <ce:cross-ref id="cr0215" refid="f0035">Fig. 7</ce:cross-ref>b and d) slip in different directions within same γ′ precipitate, indicating a possibility which is the cross slip of the superdislocations from the octahedral plane to the cube plane. SFs in γ′ precipitates and fault loops are also observed. What interests us more is the occurrence of fault loops within γ′ precipitates at high temperature, which are generally observed in low temperature range. We will give the explanation on the abnormal appearance of fault loops in <ce:cross-ref id="cr0220" refid="s0065">Section 4.2</ce:cross-ref>.</ce:para>
+                        <ce:para id="p0070" view="all">
+                           <ce:cross-ref id="cr0225" refid="f0035">Fig. 7</ce:cross-ref>c shows general features of the dislocation substructures observed in the 5W alloy after deformation in tension at peak temperature. High density of SFs in the γ′ phase without extension across the γ channel is commonly observed. The density of SFs at 800<ce:hsp sp="0.25"/>°C is higher than that at 700 and 600<ce:hsp sp="0.25"/>°C (<ce:cross-ref id="cr0230" refid="f0035">Fig. 7</ce:cross-ref>a and b). In the single-crystal alloys Co–8.8Al–9.8W–2Ta (at%) and Co–9.4Al–10.7W (at%) <ce:cross-ref id="cr0235" refid="bib4">[4]</ce:cross-ref>, the deformation occurs initially by shearing of the γ′ precipitates by a/2〈110〉 superpartial dislocations that enter as pairs of dislocations from the γ phase at 800<ce:hsp sp="0.25"/>°C. Since the a/2〈l10〉 partials can dissociate at the γ/γ′ interface or in the γ′ precipitates, yielding a superlattice intrinsic stacking fault (SISF), it is difficult to confirm which one takes place during the experiment. The SFs (projected on the (001) plane) extending along mutually perpendicular directions in the same γ′ precipitate are also observed, suggesting that dislocations with different slip systems are activated.</ce:para>
+                        <ce:para id="p0075" view="all">In the γ channel lots of entangled dislocations and only few SFs can be seen, while strong interaction of SFs within γ′ precipitates can be seen, probably associated with the work hardening exhibited in the true stress–strain curve. Fault loops are still observed within some γ′ precipitates (marked by dark arrows in <ce:cross-ref id="cr0240" refid="f0035">Fig. 7</ce:cross-ref>c).</ce:para>
+                     </ce:section>
+                     <ce:section id="s0050" view="all">
+                        <ce:label>3.4.3</ce:label>
+                        <ce:section-title id="sect0060">High temperature regime (900–1000<ce:hsp sp="0.25"/>°C)</ce:section-title>
+                        <ce:para id="p0080" view="all">The dislocation configuration at 900<ce:hsp sp="0.25"/>°C is shown in <ce:float-anchor refid="f0040"/>
+                           <ce:cross-ref id="cr0245" refid="f0040">Fig. 8</ce:cross-ref>. A high density of SFs is observed in the γ′ precipitates, similar to the observations in single-crystal alloy Co–8.8Al–9.8W–2Ta (at%) at 890<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cr0250" refid="bib4">[4]</ce:cross-ref>, indicating a similar dissociation mechanism. Thus, the SFs are likely to be generated by the reaction of dislocations at the γ/γ′ interfaces to form partial dislocations and gliding of the partial dislocations across the γ′ precipitates. However, the major deformation mechanism in the alloy Co–9.4Al–10.7W (at%) is bypassing of the precipitates by unpaired a/2〈110〉 dislocations above 800<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cr0255" refid="bib4">[4]</ce:cross-ref>. In the alloys Co–9.4Al–10.7W (at%) and Co–8.8Al–9.8W–2Ta (at%), the variation of deformation mechanisms above the peak temperature is associated with the SISF energy of Co<ce:inf loc="post">3</ce:inf>(Al,W) impacted by Ta additions. The applied stress that enables the a/3〈112〉 partial dislocations to shear into γ′ precipitates is affected by the SISF energy of Co<ce:inf loc="post">3</ce:inf>(Al,W), a higher SISF energy requiring a higher applied stress and resulting in the increment of strength <ce:cross-ref id="cr0260" refid="bib9">[9]</ce:cross-ref>. Ta is believed to increase the SISF energy of Co<ce:inf loc="post">3</ce:inf>(Al,W). Around 900<ce:hsp sp="0.25"/>°C, the yield strength of 5W alloy is higher than that of Co–9.4Al–10.7W (at%) and lower than that of Co–8.8Al–9.8W–2Ta (at%), probably resulting from the refractory-element solid-solution-hardening and the variation in the SISF energy of Co<ce:inf loc="post">3</ce:inf>(Al,W).</ce:para>
+                        <ce:para id="p0085" view="all">
+                           <ce:float-anchor refid="f0045"/>
+                           <ce:cross-ref id="cr0265" refid="f0045">Fig. 9</ce:cross-ref> shows the configuration of the dislocations after tensile test at 1000<ce:hsp sp="0.25"/>°C. In comparison with the γ′ precipitates sheared by dislocations below 900<ce:hsp sp="0.25"/>°C, deformation at higher temperatures is mainly via bypassing of γ′ particles by dislocations, which is similar to observations in alloy Co–9.4Al–10.7W (at%) above 900<ce:hsp sp="0.25"/>°C. Interrupted tensile test results from Milligan et al. indicate that the first step in deformation was bypassing of the γ′ particles, which was followed by shearing of the γ′ particles later during tension <ce:cross-ref id="cr0270" refid="bib18">[18]</ce:cross-ref>. SFs are observed in γ′ precipitates, indicating the shearing mechanism. Thus, this suggests that the deformation mechanism in the present alloy at 1000<ce:hsp sp="0.25"/>°C is very similar. Compared with Ni-base superalloys, γ/γ′ interface dislocation networks are hardly observed, probably due to the large positive lattice mismatch, resulting in the rapid decrease in yield strength.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0055" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0065">Discussion</ce:section-title>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title id="sect0070">The yield strength anomaly</ce:section-title>
+                     <ce:para id="p0090" view="all">As shown in <ce:cross-ref id="cr0275" refid="f0015">Fig. 3</ce:cross-ref>, from room temperature to 600<ce:hsp sp="0.25"/>°C, the yield strength decreases with increasing temperature, and then the yield stress abnormally increases with temperature up to 800<ce:hsp sp="0.25"/>°C, and finally the yield stress decreases rapidly above 800<ce:hsp sp="0.25"/>°C. In the L1<ce:inf loc="post">2</ce:inf> compound Co<ce:inf loc="post">3</ce:inf>(Al,W), the yield strength exhibits a near-plateau from room temperature to 677<ce:hsp sp="0.25"/>°C and an anomalous increase between 677 and 827<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cr0280" refid="bib14">[14]</ce:cross-ref>, which is analogous to the observations in the present alloy. It is generally understood that the anomalous temperature dependence of the yield strength in L1<ce:inf loc="post">2</ce:inf> compounds is caused by pinning of cross-slipped screw segments of superdislocations from the octahedral {111} plane to the cube {100} plane, which is driven by elastic anisotropy and/or lower APB energy on {001} planes. It is reported <ce:cross-ref id="cr0285" refid="bib14">[14]</ce:cross-ref> that the elastic anisotropy factor of Co<ce:inf loc="post">3</ce:inf>(Al,W) is larger than that of Ni<ce:inf loc="post">3</ce:inf>Al by 5–10% and the ratio of APB energy on {111} planes and {001} planes is 1.42 at 700<ce:hsp sp="0.25"/>°C which compares well with those observed for many other L1<ce:inf loc="post">2</ce:inf> compounds. In view of the yield strength anomaly as well as observations in <ce:cross-ref id="cr0290" refid="f0035">Fig. 7</ce:cross-ref>d, it can be inferred that the similar strengthening mechanism exists in the present study.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0065" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title id="sect0075">Temperature dependence of SFs formation</ce:section-title>
+                     <ce:para id="p0095" view="all">With respect to Ni-base superalloys, the deformation mechanism in tensile tests consists of: (i) shearing of γ′ precipitates by pairs of a/2〈110〉dislocations on {111} planes in low temperatures range (20–760<ce:hsp sp="0.25"/>°C), (ii) shearing of γ′ precipitates by the 〈112〉{111} slip system at intermediate temperatures (around 760<ce:hsp sp="0.25"/>°C), and (iii) bypassing followed by shearing of the γ′ precipitates at high temperatures (above 800<ce:hsp sp="0.25"/>°C). SFs are commonly observed at intermediate-temperatures deformations. A typical reaction might then be <ce:cross-ref id="cr0295" refid="bib19">[19]</ce:cross-ref>:<ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si0001.gif" overflow="scroll">
+                                 <mml:mi mathvariant="normal">a</mml:mi>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mo>〈</mml:mo>
+                                 <mml:mn>011</mml:mn>
+                                 <mml:mo>〉</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mi mathvariant="normal">a</mml:mi>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mo>〈</mml:mo>
+                                 <mml:mover accent="true">
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>01</mml:mn>
+                                 <mml:mo>〉</mml:mo>
+                                 <mml:mo>→</mml:mo>
+                                 <mml:mi mathvariant="normal">a</mml:mi>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:mn>6</mml:mn>
+                                 <mml:mo>〈</mml:mo>
+                                 <mml:mover accent="true">
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>12</mml:mn>
+                                 <mml:mo>〉</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mi mathvariant="normal">a</mml:mi>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:mo>〈</mml:mo>
+                                 <mml:mover accent="true">
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>12</mml:mn>
+                                 <mml:mo>〉</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mi mathvariant="normal">SF</mml:mi>
+                                 <mml:mspace width=".25em"/>
+                                 <mml:mi mathvariant="normal">in</mml:mi>
+                                 <mml:mspace width=".25em"/>
+                                 <mml:mi mathvariant="normal">γ</mml:mi>
+                                 <mml:mo>′</mml:mo>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0100" view="all">If the applied stress is sufficient, then the a/3〈<mml:math altimg="si0002.gif" overflow="scroll">
+                           <mml:mover accent="true">
+                              <mml:mn>1</mml:mn>
+                              <mml:mo>¯</mml:mo>
+                           </mml:mover>
+                        </mml:math>12〉 dislocation is able to enter the γ′ precipitate leaving a SISF behind it, and the a/6〈<mml:math altimg="si0003.gif" overflow="scroll">
+                           <mml:mover accent="true">
+                              <mml:mn>1</mml:mn>
+                              <mml:mo>¯</mml:mo>
+                           </mml:mover>
+                        </mml:math>12〉 remains at the γ/γ′ interface, relaxing the coherent stresses.</ce:para>
+                     <ce:para id="p0105" view="all">However, in the present alloy 5W, SFs are observed either in γ′ precipitates or in γ channel with various configurations in a wide temperature range after deformation. SFs in γ′ precipitate are commonly observed at 800 and 900<ce:hsp sp="0.25"/>°C, which can be observed in Ni-base superalloys at lower temperature during tension. In a Ta-doped γ′-strengthened Co-base superalloys <ce:cross-ref id="cr0300" refid="bib4">[4]</ce:cross-ref>, high density of SFs that originate from dislocation segments on the γ/γ′ interfaces are observed at 890<ce:hsp sp="0.25"/>°C after compression test, which are also formed by the way of Eq. <ce:cross-ref id="cr0305" refid="eq0005">(1)</ce:cross-ref>. In the present alloy, SFs observed at high temperature are probably generated in a similar way. In a Ru-containing single-crystal Ni-base superalloys <ce:cross-ref id="cr0310" refid="bib15">[15]</ce:cross-ref>, SFs appear in both γ′ precipitates and γ channels after tensile testing at room temperature, which is attributed to a lower SF energy. As for conventional Co-base superalloys, owning a lower SF energy, dislocations frequently dissociate into Shockley partial dislocations bounding SFs even without deformation <ce:cross-ref id="cr0315" refid="bib20">[20]</ce:cross-ref>. Therefore, the formation of SFs in the γ channel is probable due to its lower SF energy.</ce:para>
+                     <ce:para id="p0110" view="all">It is interesting to note that fault loops are observed both at low and high temperature. These defects are commonly observed in many alloys such as PWA 1480 <ce:cross-ref id="cr0320" refid="bib21">[21]</ce:cross-ref> and (Co,Ni)<ce:inf loc="post">3</ce:inf>Ti <ce:cross-ref id="cr0325" refid="bib22">[22]</ce:cross-ref> after deformation in the low temperature range. A possible formation way is given <ce:cross-ref id="cr0330" refid="bib21">[21]</ce:cross-ref>:<ce:display>
+                           <ce:formula id="eq0010">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si0004.gif" overflow="scroll">
+                                 <mml:mi mathvariant="normal">a</mml:mi>
+                                 <mml:mo>〈</mml:mo>
+                                 <mml:mover accent="true">
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>01</mml:mn>
+                                 <mml:mo>〉</mml:mo>
+                                 <mml:mo>→</mml:mo>
+                                 <mml:mi mathvariant="normal">a</mml:mi>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:mo>〈</mml:mo>
+                                 <mml:mover accent="true">
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mover accent="true">
+                                    <mml:mn>1</mml:mn>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mo>〉</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mi mathvariant="normal">a</mml:mi>
+                                 <mml:mo>/</mml:mo>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:mo>〈</mml:mo>
+                                 <mml:mover accent="true">
+                                    <mml:mn>2</mml:mn>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>11</mml:mn>
+                                 <mml:mo>〉</mml:mo>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mi mathvariant="normal">SF</mml:mi>
+                                 <mml:mspace width=".25em"/>
+                                 <mml:mi mathvariant="normal">in</mml:mi>
+                                 <mml:mspace width=".25em"/>
+                                 <mml:mi mathvariant="normal">γ</mml:mi>
+                                 <mml:mo>′</mml:mo>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0115" view="all">In the compression test of Co<ce:inf loc="post">3</ce:inf>(Al,W) at low temperature range (from −196<ce:hsp sp="0.25"/>°C to 300<ce:hsp sp="0.25"/>°C), fault loops were continually observed, and the TEM analysis suggested these were formed by Eq. <ce:cross-ref id="cr0335" refid="eq0010">(2)</ce:cross-ref> 
+                        <ce:cross-ref id="cr0340" refid="bib14">[14]</ce:cross-ref> as well. A series of experiments <ce:cross-refs id="crs0025" refid="bib23 bib24 bib25">[23–25]</ce:cross-refs> indicates that the SISF can be switched from the APB. Assuming that the total energy of an unit a〈011〉 dislocation dissociation into two partial a/2〈011〉 dislocations coupled by APB and Eq. <ce:cross-ref id="cr0345" refid="eq0010">(2)</ce:cross-ref> is <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">1</ce:inf> and <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">2</ce:inf>, respectively, then whether this transition happens or not depends on the relative magnitude of total energies <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">1</ce:inf> and <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">2</ce:inf> of the two dissociation schemes. The criterion for the transition from APB to SISF is given in Ref. <ce:cross-ref id="cr0350" refid="bib24">[24]</ce:cross-ref> as follows:<ce:display>
+                           <ce:formula id="eq0015">
+                              <ce:label>(3)</ce:label>
+                              <mml:math altimg="si0005.gif" overflow="scroll">
+                                 <mml:mtable columnalign="left">
+                                    <mml:mtr>
+                                       <mml:mtd>
+                                          <mml:mi mathvariant="normal">If</mml:mi>
+                                          <mml:mspace width="0.25em"/>
+                                          <mml:mstyle displaystyle="true">
+                                             <mml:mfrac>
+                                                <mml:mrow>
+                                                   <mml:msub>
+                                                      <mml:mrow>
+                                                         <mml:mi>γ</mml:mi>
+                                                      </mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mi mathvariant="normal">APB</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:msub>
+                                                      <mml:mrow>
+                                                         <mml:mi>γ</mml:mi>
+                                                      </mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mi mathvariant="normal">SISF</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                             </mml:mfrac>
+                                          </mml:mstyle>
+                                          <mml:mo>&gt;</mml:mo>
+                                          <mml:mn>2.49</mml:mn>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mo stretchy="true">(</mml:mo>
+                                                <mml:mrow>
+                                                   <mml:mstyle displaystyle="true">
+                                                      <mml:mfrac>
+                                                         <mml:mrow>
+                                                            <mml:msub>
+                                                               <mml:mrow>
+                                                                  <mml:mi>d</mml:mi>
+                                                               </mml:mrow>
+                                                               <mml:mrow>
+                                                                  <mml:mn>1</mml:mn>
+                                                               </mml:mrow>
+                                                            </mml:msub>
+                                                         </mml:mrow>
+                                                         <mml:mi>b</mml:mi>
+                                                      </mml:mfrac>
+                                                   </mml:mstyle>
+                                                </mml:mrow>
+                                                <mml:mo stretchy="true">)</mml:mo>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>3</mml:mn>
+                                                <mml:mo>/</mml:mo>
+                                                <mml:mn>7</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mi>cos</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:msup>
+                                          <mml:mrow>
+                                             <mml:mo stretchy="true">(</mml:mo>
+                                             <mml:mi>β</mml:mi>
+                                             <mml:mo stretchy="true">)</mml:mo>
+                                          </mml:mrow>
+                                          <mml:mo>+</mml:mo>
+                                          <mml:mn>1.3</mml:mn>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mo stretchy="true">(</mml:mo>
+                                                <mml:mrow>
+                                                   <mml:mfrac>
+                                                      <mml:mrow>
+                                                         <mml:msub>
+                                                            <mml:mrow>
+                                                               <mml:mi>d</mml:mi>
+                                                            </mml:mrow>
+                                                            <mml:mrow>
+                                                               <mml:mn>1</mml:mn>
+                                                            </mml:mrow>
+                                                         </mml:msub>
+                                                      </mml:mrow>
+                                                      <mml:mi>b</mml:mi>
+                                                   </mml:mfrac>
+                                                </mml:mrow>
+                                                <mml:mo stretchy="true">)</mml:mo>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mn>22</mml:mn>
+                                                </mml:mrow>
+                                                <mml:mo>/</mml:mo>
+                                                <mml:mrow>
+                                                   <mml:mn>203</mml:mn>
+                                                </mml:mrow>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:mi>sin</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:msup>
+                                          <mml:mrow>
+                                             <mml:mo stretchy="true">(</mml:mo>
+                                             <mml:mi>β</mml:mi>
+                                             <mml:mo stretchy="true">)</mml:mo>
+                                          </mml:mrow>
+                                          <mml:mo>,</mml:mo>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                    <mml:mtr>
+                                       <mml:mtd>
+                                          <mml:mi mathvariant="normal">then</mml:mi>
+                                          <mml:mspace width=".25em"/>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>E</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>2</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo>&lt;</mml:mo>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>E</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mn>1</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mo>,</mml:mo>
+                                       </mml:mtd>
+                                    </mml:mtr>
+                                 </mml:mtable>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>d</ce:italic>
+                        <ce:inf loc="post">1</ce:inf> is the equilibrium spacing of the component partials in these two schemes, <ce:italic>b</ce:italic> is the magnitudes of the Burgers vector of the component partials, <ce:italic>β</ce:italic> is the angle between the burgers vector and the dislocation line. Thus, it can be inferred that large ratio of APB energy and SFE results in the formation of fault loops at room temperature. In single phase Co<ce:inf loc="post">3</ce:inf>(Al,W), the size and density of the faulted dipoles decrease with the increasing deformation temperature up to 300<ce:hsp sp="0.25"/>°C, where the faulted dipoles disappear <ce:cross-ref id="cr0355" refid="bib14">[14]</ce:cross-ref>. This suggests that the ratio of APB energy and SFE decrease with temperature. However, at 700<ce:hsp sp="0.25"/>°C and 800<ce:hsp sp="0.25"/>°C, fault loops are still observed. The 5W alloy is more complex alloying and certain solute atoms may segregate to defects. The experimental <ce:cross-ref id="cr0360" refid="bib26">[26]</ce:cross-ref> and computational <ce:cross-ref id="cr0365" refid="bib27">[27]</ce:cross-ref> results have proved that the SFE can be reduced by the segregation of solute atoms (i.e. Suzuki segregation). The simulation results <ce:cross-ref id="cr0370" refid="bib27">[27]</ce:cross-ref> revealed that Cr segregated at SFs and Nb additions enhanced the Cr segregation significantly in a single phase Co-base alloy, which resulted in a further decrease of SFE. Thus, there is a possibility that the SFE of sites which solute atoms segregate to is decreased and the small ratio of APB energy and SFE leads to the formation of fault loops. So far, it is not clear which element segregates at SFs and which element can enhance or decrease the SFE of γ′ phase in Co–Al–W-base alloys. Thus, further work needs to be done to clarify the elements segregation behavior at SFs and its effect on SFE.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0070" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sect0080">Conclusion</ce:section-title>
+                  <ce:para id="p0120" view="all">The microstructures of the single-crystal Co–Al–W-base superalloy have been characterized by TEM after tensile tests at different temperatures. The deformation mechanisms under different test conditions have been analyzed. The following conclusions can be drawn:<ce:list id="li0005">
+                        <ce:list-item id="u0005">
+                           <ce:label>(1)</ce:label>
+                           <ce:para id="p0125" view="all">Alloying is an effective way to improve the mechanical properties of the new generation Co-base superalloys. With the great reduction of tungsten amount, the alloy still possesses higher γ′ solvus temperature and yield strength by additions of Ta and Ni.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0010">
+                           <ce:label>(2)</ce:label>
+                           <ce:para id="p0130" view="all">From room temperature to 900<ce:hsp sp="0.25"/>°C, the deformation mechanism is the shearing of γ particles by dislocations. At 1000<ce:hsp sp="0.25"/>°C, the deformation mechanism is the bypassing of γ′ particles by dislocations followed by shearing of γ′ particles. The anomalous yield behavior above 600<ce:hsp sp="0.25"/>°C can be attributed to the paired 1/2〈110〉 dislocation slip on both octahedral and cube planes in the γ′ precipitates.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0015">
+                           <ce:label>(3)</ce:label>
+                           <ce:para id="p0135" view="all">Fault loops are observed both at low and high temperature. At low temperature, the occurrence of fault loops is associated with the relative high ratio of APB energy and SFE. At high temperature, one possibility of the formation fault loops is that a lower SFE caused by Suzuki segregation results in the relative high ratio of APB energy and SFE.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0085">Acknowledgments</ce:section-title>
+               <ce:para id="p0140" view="all">This work was partly supported by the <ce:grant-sponsor id="gs1" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Basic Research Program (973 Program) of China</ce:grant-sponsor> under Grant no. <ce:grant-number refid="gs1">2010CB631206</ce:grant-number> and the <ce:grant-sponsor xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" id="gs2" xlink:type="simple">National Natural Science Foundation of China</ce:grant-sponsor> (NSFC) under Grant nos. <ce:grant-number refid="gs2">51171179</ce:grant-number>, <ce:grant-number refid="gs2">51271174</ce:grant-number>, <ce:grant-number refid="gs2">51331005</ce:grant-number>, <ce:grant-number refid="gs2">U1037601</ce:grant-number> and <ce:grant-number refid="gs2">11332010</ce:grant-number>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0090">Reference</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Omori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Oikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ohnuma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kainuma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ishida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>312</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>90</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Pollock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dibbern</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tsunekane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>58</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Neumeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Pyczak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Göken</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1197</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Akane</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Tresa M.</ce:given-name>
+                                 <ce:surname>Pollock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1288</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Vorontsov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dye</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>44</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Klein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Killian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Virtanen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Corros. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2713</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Kazuya</ce:given-name>
+                                 <ce:surname>Shinagawa</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1474</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Masahiro</ce:given-name>
+                                 <ce:surname>Ooshima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Katsushi</ce:given-name>
+                                 <ce:surname>Tanaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Norihiko L.</ce:given-name>
+                                 <ce:surname>Okamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Kyosuke</ce:given-name>
+                                 <ce:surname>Kishida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Haruyuki</ce:given-name>
+                                 <ce:surname>Inui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>508</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Alessandro</ce:given-name>
+                                 <ce:surname>Mottura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Anderson</ce:given-name>
+                                 <ce:surname>Janotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Tresa M.</ce:given-name>
+                                 <ce:surname>Pollock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>138</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Walter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hallstedt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Warnken</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>397</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>385</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Kubin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Lisiecki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Caron</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Philos. Mag. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>991</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Walter W.</ce:given-name>
+                                 <ce:surname>Milligan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Stephen D.</ce:given-name>
+                                 <ce:surname>Antolovich</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Wheaton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cobalt</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Norihiko L.</ce:given-name>
+                                 <ce:surname>Okamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Takashi</ce:given-name>
+                                 <ce:surname>Oohashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Hiroki</ce:given-name>
+                                 <ce:surname>Adachi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Philos. Mag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3667</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.G.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>598</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>154</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Pyczak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Göken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Neumeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Lorenz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Oehring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Schell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Schreyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Stark</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Symanzik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>571</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.R.N.</ce:given-name>
+                                 <ce:surname>Nabarro</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>513</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Milligan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Antolovich</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.F.</ce:given-name>
+                                 <ce:surname>Rae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Reed</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1067</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Kenta</ce:given-name>
+                                 <ce:surname>Yamanaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Manami</ce:given-name>
+                                 <ce:surname>Mori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Akihiko</ce:given-name>
+                                 <ce:surname>Chiba</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>552</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Walter W.</ce:given-name>
+                                 <ce:surname>Milligan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Stephen D.</ce:given-name>
+                                 <ce:surname>Antolovich</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2309</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Takasugi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Izumi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Takahashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Metall.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2959</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Pak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Saburi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nenno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1976</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1081</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ichihara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Takeuchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Metall.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chiba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hanada</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Philos. Mag. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>751</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.P.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Smallman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2731</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Yuichiro</ce:given-name>
+                                 <ce:surname>Koizumi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Takeshi</ce:given-name>
+                                 <ce:surname>Nukaya</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2901</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
