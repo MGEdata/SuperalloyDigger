@@ -98,11 +98,9 @@ class AcquireAllTargetInfo:
             positioner = SentencePositioner(filter_txt, prop_name, self.c_path)
             target_sents = positioner.target_sent()
             for index, sent in target_sents.items():
-                processor = TPreProcessor(sent, prop_name, self.c_path)
-                filter_data = processor.processor()
-                parse = PhraseParse(filter_data, prop_name, self.c_path)
+                parse = PhraseParse(sent, prop_name, self.c_path)
                 sub_order, sub_id, object_list = parse.alloy_sub_search()
-                re = RelationExtraciton(prop_name, filter_data, sub_order, sub_id, object_list, self.c_path,
+                re = RelationExtraciton(prop_name, sent, sub_order, sub_id, object_list, self.c_path,
                                         abbre_pairs)
                 all_outcome = re.triple_extraction()
                 if all_outcome:
