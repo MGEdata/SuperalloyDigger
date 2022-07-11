@@ -46,11 +46,9 @@ This code extracts data of property from TXT files. These TXT files need to be s
 
 **Usage**
 ----------------------
-Clone this github repository and run
-```
-python3 setup.py install
-```
-Or simply use the code in your own project.
+Use the code in your own project.
+
+Please see the code usage description documentation for specific details on how to use code for different situations. If you want to apply the code to other fields than superalloy, please modify the rule in configuration file(.\pipeline\dictionary.ini).
 
 Note:The xlrd library version needs to be 1.2.0, run
 ```
