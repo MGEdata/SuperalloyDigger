@@ -63,13 +63,13 @@ class AllAttributes:
             is_exists = os.path.exists(path_2)
             if is_exists:
                 text_path = path_2 + '/' + str(doi) + '.txt'
-                file = open(text_path, 'w', encoding='utf-8')
-                file.write(filter_txt)
+                with open(text_path, 'w', encoding='utf-8') as file:
+                    file.write(filter_txt)
                 process_text.append(text_path)
             else:
                 os.makedirs(path_2)
                 text_path = path_2 + '/'+str(doi)+'.txt'
-                file = open(text_path, 'w', encoding='utf-8')
-                file.write(filter_txt)
+                with open(text_path, 'w', encoding='utf-8') as file:
+                    file.write(filter_txt)
                 process_text.append(text_path)
         self.log_wp.excel_save(xls, self.out_path)
