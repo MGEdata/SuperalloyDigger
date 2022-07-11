@@ -39,16 +39,6 @@ Starting with a corpus of scientific articles scraped in XML or plain text forma
 - The code in text_extractor folder is used for extracting information in txt files.
 - The code in pipeline folder directly realize the transformation from literature to structured database. 
 
-**SuperalloyDigger Code**
-----------------------
-This code extracts data of property from TXT files. These TXT files need to be supplied by the researcher. The code is written in Python3. To run the code:
-
-  1. Fork this repository
-  2. Download the word embeddings model and configuration file
-    - Available here: http://superalloydigger.mgedata.cn/#/home
-  3. Download all files and place in the tableextractor/bin folder
-  4. Place all files in superalloydigger/data
-
 **Usage**
 ----------------------
 Use the code in your own project.
