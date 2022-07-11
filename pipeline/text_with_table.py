@@ -88,12 +88,12 @@ class AcquireAllTargetInfo:
         for i in range(0, length):
             n_path = os.listdir(self.origin_text_path)[i]
             doi = self.get_doi_fromtxt(n_path)
-            file = open(os.path.join(text_path, n_path), 'r', encoding='utf-8')
-            data = file.read()
+            with open(os.path.join(text_path, n_path), 'r', encoding='utf-8') as file:
+                data = file.read()
             processor = TPreProcessor(data, prop_name, self.c_path)
             filter_txt = processor.processor()
-            file_origin = open(os.path.join(self.origin_text_path, n_path), 'r', encoding='utf-8')
-            data_origin = file_origin.read()
+            with open(os.path.join(self.origin_text_path, n_path), 'r', encoding='utf-8') as file_origin:
+                data_origin = file_origin.read()
             abbre_pairs = self.get_abrre(data_origin, prop_name)
             positioner = SentencePositioner(filter_txt, prop_name, self.c_path)
             target_sents = positioner.target_sent()
