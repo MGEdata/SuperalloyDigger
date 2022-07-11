@@ -33,6 +33,8 @@ The word embedding model for superalloy corpus was pre-trained on ~9000 unlabele
 
 Automatic extraction of properties from the scientific literature of superalloy, covering density, γ' solvus temperature, solidus temperature, and liquidus temperature.
 Starting with a corpus of scientific articles scraped in XML or plain text format, NLP techniques are used to preprocess the raw archived corpus, followed by sentence classification, named entity recognition and relation extraction automatically. Finally, the extracted entities containing alloy named entity, property specifier and property value, are compiled into a highly structured format for materials database.
+
+- The files in input_xml/html/txt folder is used for code testing.
 - The code in table_extractor folder is used for parsing tables in xml and html files.
 - The code in text_extractor folder is used for extracting information in txt files.
 - The code in pipeline folder directly realize the transformation from literature to structured database. 
