@@ -43,7 +43,7 @@ Starting with a corpus of scientific articles scraped in XML or plain text forma
 ----------------------
 Use the code in your own project.
 
-Please see the code usage description documentation for specific details on how to use code for different situations. If you want to apply the code to other fields than superalloy, please modify the rule in configuration file(.\pipeline\dictionary.ini).
+Please see the API documentation for specific details on how to use code for different situations. If you want to apply the code to other fields than superalloy, please modify the rule in configuration file(.\pipeline\dictionary.ini).
 
 Note:The xlrd library version needs to be 1.2.0, run
 ```
