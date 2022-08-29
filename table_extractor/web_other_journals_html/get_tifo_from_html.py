@@ -133,7 +133,6 @@ class GetTableHtml:
                             print(e)
                             print('format of table ' + str(p) + ' is PDF')
                             data_df = pd.DataFrame()
-                            self.log_wp.excel_writer(data_df, writer)
                             continue
                         start = rt.find("<h1")
                         end = rt.rfind("</h1>")
