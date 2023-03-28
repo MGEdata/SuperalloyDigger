@@ -37,6 +37,8 @@ class ElsevierXmlReader(object):
         pattern = re.compile(r'<[^>]+>', re.S)
         temp = etree.tostring(abs[0], encoding='utf-8').decode('utf-8')
         text = pattern.sub('', temp).strip('\n ')
+        text = text.replace("\n","")
+        text = re.sub("\s{2,}"," ",text)
         self.abstract = text[0:text.find('\n')]
 
     def filter(self, string):
