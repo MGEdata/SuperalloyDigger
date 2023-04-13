@@ -69,19 +69,19 @@ if __name__ == '__main__':
     xls = xlrd.open_workbook(r"...\infos.xlsx")
     sht = xls.sheet_by_index(0)#sheet索引
     dois = sht.col_values(0)#column索引
-    api_path = r"...\APIkeys.txt"
+    api_path = r"...\APIkeys.txt"#保存APIkey的文本，APIkey从https://dev.elsevier.com/进行申请
     arformat = "text/xml"  # text/xml,text/plain
     corpus_type = "article" # article/abstract
     output_path = r"...\xmls"
     fd = File_Download(api_path, dois, arformat, corpus_type, output_path)
 
-    count = len(dois)
-    articles = []
-    doi_error = dict()
-    start_id = dois.index('10.1002/cssc.201600516')
-    batch_id = 1
-    key_id = 0
-    for i in range(0, count):# 当代码终止，将最新生成的doi所在dois中的索引（start_id）换掉这里的0
-        doi = fd.run(key_id,dois,i)
-        print(doi)
+#     count = len(dois)
+#     articles = []
+#     doi_error = dict()
+#     start_id = dois.index('10.1002/cssc.201600516')#为了防止网络问题断开下载，可以从这个DOI开始继续往下下载
+#     batch_id = 1
+#     key_id = 0
+#     for i in range(0, count):# 当代码终止，将最新生成的doi所在dois中的索引（start_id）换掉这里的0
+#         doi = fd.run(key_id,dois,i)
+#         print(doi)
 
