@@ -67,8 +67,8 @@ class File_Download:
 if __name__ == '__main__':
 
     xls = xlrd.open_workbook(r"...\infos.xlsx")
-    sht = xls.sheet_by_index(0)
-    dois = sht.col_values(0)
+    sht = xls.sheet_by_index(0)#sheet索引
+    dois = sht.col_values(0)#column索引
     api_path = r"...\APIkeys.txt"
     arformat = "text/xml"  # text/xml,text/plain
     corpus_type = "article" # article/abstract
