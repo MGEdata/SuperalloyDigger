@@ -79,7 +79,7 @@ def getHtml(url,User_Agent):
     # Add 'Cookie' information as required by the journal
     headers = {'User-Agent':User_Agent} 
     try:
-        req = urllib.request.Request(url=url, headers=headers)
+        req = urllib.request.Request(url=url[0], headers=headers)
         html = urllib.request.urlopen(req).read()
     except Exception as e:
         print(f"{e} happen in {url}")
