@@ -3,6 +3,12 @@ import xlrd
 import pickle
 import os
 
+def dois_read(path):
+    with open(path, "rb") as file:
+        dois = file.readlines()
+    return dois
+
+
 class File_Download:
     def __init__(self, api_path, dois, arformat, corpus_type, output_path):
         """
@@ -34,11 +40,6 @@ class File_Download:
         f.write(sample)
         f.close()
 
-    def dois_read(self,path):
-        with open(path, "rb") as file:
-            dois = file.readlines()
-        return dois
-
     def run(self,key_id,dois,i):
         key = self.apikeys[key_id]
         key = key.replace("\n","")
@@ -47,8 +48,8 @@ class File_Download:
         doi_ = doi.replace("\n", "")
         url = self.url_publisher + doi_ + "?" + APIKey + "&httpAccept=" + self.arformat
         r = requests.get(url, verify=False, headers=self.header)
+        doi = str(dois[i].decode())
         doi_ = doi_.replace("/", "-")
-
         path = os.path.join(self.output_path, doi_ + self.end)
         if "RESOURCE_NOT_FOUND" not in r.content.decode()and "AUTHENTICATION_ERROR" not in r.content.decode() and "Bad Request"  not in r.content.decode():# 无法获取资源
             try:
@@ -59,16 +60,14 @@ class File_Download:
             size = os.path.getsize(path)
             if size//1024 <3:
                 key_id += 1
-                doi = self.download(self.apikeys, key_id, dois, i)
+                doi = self.run(key_id, dois, i)
         return doi
 
 
 
 if __name__ == '__main__':
-
-    xls = xlrd.open_workbook(r"...\infos.xlsx")
-    sht = xls.sheet_by_index(0)#sheet索引
-    dois = sht.col_values(0)#column索引
+    path = r".\dois.txt"
+    dois = dois_read(path)
     api_path = r"...\APIkeys.txt"#保存APIkey的文本，APIkey从https://dev.elsevier.com/进行申请
     arformat = "text/xml"  # text/xml,text/plain
     corpus_type = "article" # article/abstract
