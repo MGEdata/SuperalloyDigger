@@ -29,7 +29,7 @@ class Dictionary:
         self.table_units = eval(cp.get("DICTIONARY", 'table_units'))
         self.ele_list = eval(cp.get("DICTIONARY", 'ele_list'))
         self.table_number_pattern = eval(cp.get("DICTIONARY", 'table_number_pattern'))
-        # self.table_unit_pattern_text = eval(cp.get("DICTIONARY", 'table_unit_pattern_text'))
+        self.table_unit_pattern_text = eval(cp.get("DICTIONARY", 'table_unit_pattern_text'))
         self.unit_pattern_table = eval(cp.get("DICTIONARY", 'unit_pattern_table'))
         self.ele_to_abr = eval(cp.get("DICTIONARY", 'ele_to_abr'))
         # self.alloy_abbre_type = eval(cp.get("DICTIONARY", 'alloy_abbre_type'))
