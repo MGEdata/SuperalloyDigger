@@ -68,7 +68,7 @@ class File_Download:
 if __name__ == '__main__':
     path = r".\dois.txt"
     dois = dois_read(path)
-    api_path = r"...\APIkeys.txt"#保存APIkey的文本，APIkey从https://dev.elsevier.com/进行申请
+    api_path = r"...\APIkeys.txt" # Save the text of APIkey, APIkey from https://dev.elsevier.com/进行申请
     arformat = "text/xml"  # text/xml,text/plain
     corpus_type = "article" # article/abstract
     output_path = r"...\xmls"
@@ -77,10 +77,10 @@ if __name__ == '__main__':
 #     count = len(dois)
 #     articles = []
 #     doi_error = dict()
-#     start_id = dois.index('10.1002/cssc.201600516')#为了防止网络问题断开下载，可以从这个DOI开始继续往下下载
+#     start_id = dois.index('10.1002/cssc.201600516') #To prevent network problems from disconnecting the download, you can start from this DOI and continue to download
 #     batch_id = 1
 #     key_id = 0
-#     for i in range(0, count):# 当代码终止，将最新生成的doi所在dois中的索引（start_id）换掉这里的0
+#     for i in range(0, count):# When the code terminates, replace the index (start_id) in the dois where the latest generated doi is located with the 0 here
 #         doi = fd.run(key_id,dois,i)
 #         print(doi)
 
