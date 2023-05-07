@@ -48,7 +48,7 @@ class File_Download:
         doi_ = doi.replace("\n", "")
         url = self.url_publisher + doi_ + "?" + APIKey + "&httpAccept=" + self.arformat
         r = requests.get(url, verify=False, headers=self.header)
-        doi = str(dois[i].decode())
+        doi = str(dois[i].decode()) # if error, change it to "doi = str(dois[i])"
         doi_ = doi_.replace("/", "-")
         path = os.path.join(self.output_path, doi_ + self.end)
         if "RESOURCE_NOT_FOUND" not in r.content.decode()and "AUTHENTICATION_ERROR" not in r.content.decode() and "Bad Request"  not in r.content.decode():# 无法获取资源
