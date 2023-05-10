@@ -13,8 +13,9 @@ from bs4 import BeautifulSoup
 import xlrd
 from .log_wp import LogWp
 
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 doi_url = ""
-
 
 class GetTableHtml:
     def __init__(self, doi, output_path):
