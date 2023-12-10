@@ -623,11 +623,14 @@ def get_extraction_outcome(xml_path, save_path, config_path):
             cols, rows, col_inds, row_inds = table_extractor_m.get_headers(tables, doi)
             tab = []
             for table, row_ind, col_ind in zip(tables, row_inds, col_inds):
-                curr, error_file = (table_extractor_m.construct_table_object(doi, table, row_ind, col_ind))
-                if curr:
-                    tab.append(curr)
-                if error_file:
-                    all_error_file.append(str(doi))
+                try:
+                    curr, error_file = (table_extractor_m.construct_table_object(doi, table, row_ind, col_ind))
+                    if curr:
+                        tab.append(curr)
+                    if error_file:
+                        all_error_file.append(str(doi))
+                except Exception as error:
+                    print(error)
             for i, (t, caption) in enumerate(zip(tab, captions)):
                 if t is not None:
                     t['order'] = i
