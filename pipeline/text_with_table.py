@@ -18,6 +18,7 @@ from .get_full_text import FilterText
 from .log_wp import LogWp
 from .output_modified_triple import TableExtraction
 from .sentence_positioner import SentencePositioner
+from pre_processor import PreProcessor
 
 property_list = ['solvus', 'density', 'liquidus', 'solidus']
 
@@ -90,7 +91,11 @@ class AcquireAllTargetInfo:
             doi = self.get_doi_fromtxt(n_path)
             with open(os.path.join(text_path, n_path), 'r', encoding='utf-8') as file:
                 data = file.read()
-            processor = TPreProcessor(data, prop_name, self.c_path)
+            # processor = TPreProcessor(data, prop_name, self.c_path)
+            # filter_txt = processor.processor()
+            pre_processor = PreProcessor(data, self.c_path)
+            filter_data = pre_processor.pre_processor()
+            processor = TPreProcessor(filter_data, prop_name, self.c_path)
             filter_txt = processor.processor()
             with open(os.path.join(self.origin_text_path, n_path), 'r', encoding='utf-8') as file_origin:
                 data_origin = file_origin.read()
