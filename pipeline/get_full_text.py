@@ -46,11 +46,11 @@ class FilterText:
             if not doi_info:
                 doi = txt_name[k].replace(".txt","")
                 doi_info = doi
-            data_i = data_i.replace('Key words', 'Keywords')
-            data_i = data_i.replace('Keywords', 'Keyword')
+            data_i = data_i.replace('Key words', 'Keywords') # data_i = data_i.replace('abstract', 'Abstract')
+            data_i = data_i.replace('Keywords', 'Keyword') # data_i = data_i.replace('Abstracts', 'Abstract')
             data_i = data_i.replace('INTRODUCTION', 'Introduction')
             token_data = nltk.word_tokenize(data_i)
-            if "Keyword" in token_data:
+            if "Keyword" in token_data: # "Abstract"
                 index_abstract = token_data.index('Keyword')
                 token_data = token_data[index_abstract:]
                 new_data = token_data
