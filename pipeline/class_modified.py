@@ -658,5 +658,5 @@ def get_extraction_outcome(xml_path, save_path, config_path):
                         start_row += 1
                     sheet_id += 1
                 del xls['Sheet']
-                xls.save(save_path + '/' + str(file_i) + ".xlsx")
+                xls.save(save_path + '/' + str(xml_n) + ".xlsx")
     return all_error_file, len(all_error_file)
