@@ -34,6 +34,9 @@ class OtherJ():
 
     def relation_extraction(self, C_path, origin_text_path, prop_name, triple_path, out_path, m_path):
         log_wp = LogWp()
+        if not os.path.exists(os.path.join(m_path, "full_text")):
+            os.makedirs(os.path.join(m_path, "full_text"))
+        text_path = os.path.join(m_path, "full_text")
         # The path to the folder where the full-text text is stored
         text_path = os.path.join(m_path, "full_text")
         # Locate the obtained target corpus
