@@ -7,8 +7,8 @@ Created on Wed Jun 10 15:06:30 2020
 import xlrd
 import xlwt
 import os
-from .pre_processor import PreProcessor
-from .log_wp import LogWp
+from pre_processor import PreProcessor
+from log_wp import LogWp
 
 
 class AllAttributes:
@@ -49,7 +49,9 @@ class AllAttributes:
                 sheet.write(i+1, 1, str(self.doi_list[k]))
                 k += 1
         # text + filtered_text_1 + Target sentences
-        txt_name = os.listdir(self.text_path) 
+        txt_name = os.listdir(self.text_path)
+        txt_name = [name for name in txt_name if name.endswith(".txt")]
+
         process_text = list()
         for i in range(0, len(txt_name)):
             doi = self.doi_list[i]
